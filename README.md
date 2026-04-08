@@ -62,7 +62,8 @@
 ---
 
 <br>
-
+<div align="center">
+  
 ## 📋 Registro de Versiones del Informe
 
 | Versión | Fecha | Autor | Descripción de modificación |
@@ -70,6 +71,7 @@
 | 1.0 | 2026-04-XX | `[Nombre]` | Creación del informe y estructura inicial |
 | | | | |
 
+</div>
 ---
 
 <br>
