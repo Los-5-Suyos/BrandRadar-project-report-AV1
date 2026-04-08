@@ -25,11 +25,11 @@
 
 <br>
 
-## ´Los 5 Suyos´
+## Presentado por ´Los 5 Suyos´
 
 <br>
 
-<img src="./brandradar.png" alt="BrandRadar Logo" width="400"/>
+<img src="./brandradar.png" alt="BrandRadar Logo" width="300"/>
 
 <br>
 
@@ -41,7 +41,7 @@
 
 ---
 
-### 👥 Integrantes del Equipo
+### 👥 Integrantes de ´Los 5 Suyos´
 
 | Código | Apellidos y Nombres |
 |:------:|:-------------------|
