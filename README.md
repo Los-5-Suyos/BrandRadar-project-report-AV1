@@ -31,7 +31,7 @@
 
 <br>
 
-<img src="https://placehold.co/120x120/0f172a/38bdf8?text=BR&font=montserrat" alt="BrandRadar Logo" width="120" style="border-radius: 16px"/>
+<img src="./brandradar.png" alt="BrandRadar Logo" width="120"/>
 
 <br>
 
@@ -66,9 +66,9 @@
   
 ## 📋 Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de modificación |
+| Versión | Fecha | Participantes | Descripción de modificación |
 |:-------:|:-----:|:-----:|:---------------------------|
-| 1.0 | 2026-04-XX | `[Nombre]` | Creación del informe y estructura inicial |
+| 1.0 | 2026-04-08 | `[Nombre]` | Avance 1 del reporte del proyecto y primera version landing page |
 | | | | |
 
 </div>
