@@ -78,9 +78,9 @@
 
 ## 📑 Tabla de Contenidos
 
-  [Student Outcome](#student-outcome)
+  # [Student Outcome](#student-outcome)
 
-  [Capítulo I: Introducción](./brandradar-report/docs/capitulo-1.md)
+  #[Capítulo I: Introducción](./brandradar-report/docs/capitulo-1.md)
   - [1.1. Startup Profile](./brandradar-report/docs/capitulo-1.md#11-startup-profile)
     - [1.1.1. Descripción de la Startup](./brandradar-report/docs/capitulo-1.md#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](./brandradar-report/docs/capitulo-1.md#112-perfiles-de-integrantes-del-equipo)
@@ -93,7 +93,7 @@
       - [1.2.2.4. Lean UX Canvas](./brandradar-report/docs/capitulo-1.md#1224-lean-ux-canvas)
   - [1.3. Segmentos objetivo](./brandradar-report/docs/capitulo-1.md#13-segmentos-objetivo)
  
-  [Capítulo II: Requirements Elicitation & Analysis](./brandradar-report/docs/capitulo-2.md)
+  # [Capítulo II: Requirements Elicitation & Analysis](./brandradar-report/docs/capitulo-2.md)
   - [2.1. Competidores](./brandradar-report/docs/capitulo-2.md#21-competidores)
     - [2.1.1. Análisis competitivo](./brandradar-report/docs/capitulo-2.md#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](./brandradar-report/docs/capitulo-2.md#212-estrategias-y-tácticas-frente-a-competidores)
@@ -109,12 +109,12 @@
   - [2.4. Big Picture Event Storming](./brandradar-report/docs/capitulo-2.md#24-big-picture-event-storming)
   - [2.5. Ubiquitous Language](./brandradar-report/docs/capitulo-2.md#25-ubiquitous-language)
     
-  [Capítulo III: Requirements Specification](./brandradar-report/docs/capitulo-3.md)
+  # [Capítulo III: Requirements Specification](./brandradar-report/docs/capitulo-3.md)
   - [3.1. User Stories](./brandradar-report/docs/capitulo-3.md#31-user-stories)
   - [3.2. Impact Mapping](./brandradar-report/docs/capitulo-3.md#32-impact-mapping)
   - [3.3. Product Backlog](./brandradar-report/docs/capitulo-3.md#33-product-backlog)
     
-  [Capítulo IV: Product Design](./brandradar-report/docs/capitulo-4.md)
+  # [Capítulo IV: Product Design](./brandradar-report/docs/capitulo-4.md)
   - [4.1. Style Guidelines](./brandradar-report/docs/capitulo-4.md#41-style-guidelines)
     - [4.1.1. General Style Guidelines](./brandradar-report/docs/capitulo-4.md#411-general-style-guidelines)
     - [4.1.2. Web Style Guidelines](./brandradar-report/docs/capitulo-4.md#412-web-style-guidelines)
@@ -143,7 +143,7 @@
   - [4.8. Database Design](./brandradar-report/docs/capitulo-4.md#48-database-design)
     - [4.8.1. Database Diagrams](./brandradar-report/docs/capitulo-4.md#481-database-diagrams)
       
-  [Capítulo V: Product Implementation, Validation & Deployment](./brandradar-report/docs/capitulo-5.md)
+  # [Capítulo V: Product Implementation, Validation & Deployment](./brandradar-report/docs/capitulo-5.md)
   - [5.1. Software Configuration Management](./brandradar-report/docs/capitulo-5.md#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](./brandradar-report/docs/capitulo-5.md#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](./brandradar-report/docs/capitulo-5.md#512-source-code-management)
@@ -154,9 +154,11 @@
   - [5.3. Validation Interviews](./brandradar-report/docs/capitulo-5.md#53-validation-interviews)
   - [5.4. Video About-the-Product](./brandradar-report/docs/capitulo-5.md#54-video-about-the-product)
     
-  [Conclusiones](#conclusiones)
-  [Bibliografía](#bibliografía)
-  [Anexos](#anexos)
+  # [Conclusiones](#conclusiones)
+  
+  # [Bibliografía](#bibliografía)
+  
+  # [Anexos](#anexos)
 
 ---
 
