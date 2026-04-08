@@ -4,8 +4,6 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="UPC Logo" width="140"/>
 
-<br>
-
 # Universidad Peruana de Ciencias Aplicadas
 ### Facultad de Ingeniería · Ciclo 2026-10
 
