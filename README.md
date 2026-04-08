@@ -7,7 +7,7 @@
 <br>
 
 # Universidad Peruana de Ciencias Aplicadas
-### Facultad de Ingeniería · Carrera de Ingeniería de Software · Ciclo 2026-10
+### Facultad de Ingeniería · Ciclo 2026-10
 
 ---
 
