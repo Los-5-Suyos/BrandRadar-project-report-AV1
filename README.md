@@ -20,18 +20,12 @@
 
 <img src="./brandradar.png" alt="BrandRadar Logo" width="300"/>
 
-## 🚀 Startup: `BrandRadar`
+## 🚀 Startup: BrandRadar
 
 *Monitoreo de reputación digital en tiempo real para marcas y empresas*
 
-<br>
-
----
-
 **Código del Curso:** 1ASI0729 &nbsp;|&nbsp; **Nombre del Curso:** Desarrollo de Aplicaciones Open Source
-
 **NRC:** `11863`
-
 **Profesor:** Ivan Robles Fernández
 
 <br>
