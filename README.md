@@ -30,9 +30,9 @@
 
 <img src="./brandradar.png" alt="BrandRadar Logo" width="300"/>
 
-## 🚀 Startup: `BRANDRADAR`
+## 🚀 Startup: `BrandRadar`
 
-> *Monitoreo de reputación digital en tiempo real para marcas y empresas*
+*Monitoreo de reputación digital en tiempo real para marcas y empresas*
 
 <br>
 
