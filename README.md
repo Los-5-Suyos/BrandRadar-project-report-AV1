@@ -22,6 +22,7 @@
 
 *Monitoreo de reputación digital en tiempo real para marcas y empresas*
 
+<br>
 
 **Código del Curso:** 1ASI0729 &nbsp;|&nbsp; **Nombre del Curso:** Desarrollo de Aplicaciones Open Source
 
