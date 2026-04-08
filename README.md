@@ -24,7 +24,7 @@
 # 📄 Informe de Trabajo Final
 
 <br>
-## `Los 5 Suyos`
+## Los 5 Suyos
 
 ## 🚀 Startup: `BRAND RADAR`
 
