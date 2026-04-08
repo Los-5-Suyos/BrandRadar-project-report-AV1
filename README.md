@@ -185,15 +185,15 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 <br>
 
-## ✅ Conclusiones
+## Conclusiones
 
-> *(Esta sección se desarrolla progresivamente en cada entrega)*
+*(Esta sección se desarrolla progresivamente en cada entrega)*
 
-### Conclusiones y recomendaciones
+## Recomendaciones
 
-*(Completar al avanzar el proyecto)*
+*(Esta sección se desarrolla progresivamente en cada entrega)*
 
-### Video About-The-Team
+## Video About-The-Team
 
 *(Incluir screenshot, URL de Microsoft Stream y YouTube, y timing del video)*
 
@@ -203,13 +203,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 ## 📚 Bibliografía
 
-> *(Listar referencias en formato APA)*
+*(Listar referencias en formato APA)*
 
-- Cohn, M. (s.f.). *User Stories Articles*. Mountain Goat Software. https://www.mountaingoatsoftware.com/blog/tag/user-stories
-- Conventional Commits. (s.f.). https://www.conventionalcommits.org/
-- Driessen, V. (2010). *A successful Git branching model*. https://nvie.com/posts/a-successful-git-branching-model/
-- Preston-Werner, T. (s.f.). *Semantic Versioning 2.0.0*. https://semver.org/
-- The Markdown Guide. (s.f.). https://www.markdownguide.org/
 
 ---
 
