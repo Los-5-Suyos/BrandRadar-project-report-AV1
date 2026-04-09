@@ -77,7 +77,7 @@
 
 ## 📑 Tabla de Contenidos
   #### [Contenido](#-tabla-de-contenidos)
-  #### [Student Outcome](#student-outcome)
+  #### [Student Outcome](#-student-outcome)
 
   #### [Capítulo I: Introducción](./brandradar-report/docs/capitulo-1.md)
   - [1.1. Startup Profile](./brandradar-report/docs/capitulo-1.md#11-startup-profile)
@@ -153,15 +153,15 @@
   - [5.3. Validation Interviews](./brandradar-report/docs/capitulo-5.md#53-validation-interviews)
   - [5.4. Video About-the-Product](./brandradar-report/docs/capitulo-5.md#54-video-about-the-product)
     
-  #### [Conclusiones](#conclusiones)
+  #### [Conclusiones](#conclusiones-1)
   
-  #### [Recomendaciones](#recomendaciones)
+  #### [Recomendaciones](#recomendaciones-1)
 
-  #### [Video About-the-Team](#video-about-the-team)
+  #### [Video About-the-Team](#video-about-the-team-1)
   
-  #### [Bibliografía](#bibliografía)
+  #### [Bibliografía](#-bibliografía)
   
-  #### [Anexos](#anexos)
+  #### [Anexos](#anexos-1)
 
 ---
 
