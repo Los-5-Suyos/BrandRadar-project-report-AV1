@@ -56,7 +56,7 @@
 
 | Versión | Fecha | Participantes | Descripción de modificación |
 |:-------:|:-----:|:-----:|:---------------------------|
-| AV1 | 2026-04-08 | Brianna Cristina Salinas Guzmán<br>Nombre 2 <br>Nombre 3 <br>Nombre 4 <br>Nombre 5 | Avance 1 del reporte del proyecto y primera versión de la landing page |
+| AV1 | 2026-04-08 | Salinas Guzmán, Brianna Cristina <br>Nombre 2 <br>Nombre 3 <br>Nombre 4 <br>Nombre 5 | Avance 1 del reporte del proyecto y primera versión de la landing page |
 | | | | |
 
 </div>
@@ -173,14 +173,12 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 | Criterio específico | Integrante | Acciones realizadas | Conclusiones |
 |:---|:---|:---|:---|
-| **3.c1. Comunica oralmente con efectividad a diferentes rangos de audiencia.** 
-| Brianna Salinas | **AV1:** (acción específica) | (Completar grupalmente) |
+| **3.c1. Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Salinas Guzmán, Brianna  | **AV1:** (acción específica) | (Completar grupalmente) |
 |  | Apellido, Nombre 2 | **AV1:** (acción específica) |  |
 |  | Apellido, Nombre 3 | **AV1:** (acción específica) |  |
 |  | Apellido, Nombre 4 | **AV1:** (acción específica) |  |
 |  | Apellido, Nombre 5 | **AV1:** (acción específica) |  |
-| **3.c2. Comunica por escrito con efectividad a diferentes rangos de audiencia.** 
-| Brianna Salinas | **AV1:** (acción específica) | (Completar grupalmente) |
+| **3.c2. Comunica por escrito con efectividad a diferentes rangos de audiencia.** | Salinas Guzmán, Brianna  | **AV1:** (acción específica) | (Completar grupalmente) |
 |  | Apellido, Nombre 2 | **AV1:** (acción específica) |  |
 |  | Apellido, Nombre 3 | **AV1:** (acción específica) |  |
 |  | Apellido, Nombre 4 | **AV1:** (acción específica) |  |
