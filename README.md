@@ -34,13 +34,11 @@
 
 ### 👥 Integrantes de ´Los 5 Suyos´
 
-| Código | Apellidos y Nombres |
-|:------:|:-------------------|
-| `U20410239` | `Salinas Guzmán, Brianna Cristina` |
-| `U20XXXXXXX` | `Apellido1 Apellido2, Nombre2` |
-| `U20XXXXXXX` | `Apellido1 Apellido2, Nombre3` |
-| `U20XXXXXXX` | `Apellido1 Apellido2, Nombre4` |
-| `U20XXXXXXX` | `Apellido1 Apellido2, Nombre5` |
+- `U20410239` - `Salinas Guzmán, Brianna Cristina` 
+- `U20XXXXXXX`  `Apellido1 Apellido2, Nombre2` 
+- `U20XXXXXXX`  `Apellido1 Apellido2, Nombre3` 
+- `U20XXXXXXX`  `Apellido1 Apellido2, Nombre4` 
+- `U20XXXXXXX`  `Apellido1 Apellido2, Nombre5` 
 
 <br>
 
