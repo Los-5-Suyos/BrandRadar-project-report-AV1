@@ -173,8 +173,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |:---|:---|:---|
-| **3.c1. Comunica oralmente con efectividad a diferentes rangos de audiencia.** | **[Salinas Brianna** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 2]** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 3]** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 4]** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 5]** <br> AV1: (acción específica) | (Completar de forma grupal en cada entrega) |
-| ***3.c1. Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **[Apellido, Nombre 1]** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 2]** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 3]** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 4]** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 5]** <br> AV1: (acción específica) | (Completar de forma grupal en cada entrega) |
+| **3.c1. Comunica oralmente con efectividad a diferentes rangos de audiencia.** | **Salinas Brianna** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 2]** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 3]** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 4]** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 5]** <br> AV1: (acción específica) | (Completar de forma grupal en cada entrega) |
+| ***3.c1. Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Salinas Brianna** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 2]** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 3]** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 4]** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 5]** <br> AV1: (acción específica) | (Completar de forma grupal en cada entrega) |
 
 ---
 
