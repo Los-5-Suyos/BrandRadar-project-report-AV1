@@ -230,19 +230,17 @@ La mayoría de empresas que no accede a soluciones especializadas recurre a mét
 
 
 ---
+<br>
 
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+El proceso Lean UX parte de identificar con precisión los problemas reales que enfrentan los usuarios antes de proponer cualquier solución. A continuación se presentan los Problem Statements correspondientes a los dos segmentos iniciales de BrandRadar, construidos a partir del análisis de dominio, segmento de cliente, pain points, gap de mercado, visión estratégica y segmento inicial.
 <br>
 
-El proceso Lean UX parte de identificar con precisión los problemas reales que enfrentan los usuarios antes de proponer cualquier solución. A continuación se presentan los Problem Statements correspondientes a los dos segmentos iniciales de BrandRadar, construidos a partir del análisis de dominio, segmento de cliente, pain points, gap de mercado, visión estratégica y segmento inicial.
-
----
-
-## Problem Statement 1
-###  Empresas y marcas digitales (PyMEs)
+### Problem Statement 1
+####  Empresas y marcas digitales (PyMEs)
 
 | Componente | Descripción |
 |---|---|
@@ -253,14 +251,13 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 | **Vision / Strategy** | Democratizar el acceso a la inteligencia de marca, ofreciendo a empresas sin grandes presupuestos de comunicación las mismas capacidades de monitoreo que hoy solo tienen las grandes corporaciones |
 | **Initial segment** | PyMEs peruanas y latinoamericanas con entre 10 y 200 empleados, activas en redes sociales, con presupuesto de marketing digital limitado y sin área de comunicaciones dedicada |
 
-### Problem Statement
 
 > Hemos observado que las **pequeñas y medianas empresas con presencia digital** no cuentan con visibilidad en tiempo real sobre cómo son percibidas en internet. Esto genera que las crisis reputacionales escalen sin ser detectadas a tiempo y que las decisiones de comunicación se tomen de forma reactiva y sin datos. **¿Cómo podríamos** ofrecer una plataforma de monitoreo de reputación accesible, clara y accionable que permita a estas empresas proteger y gestionar su imagen digital de manera proactiva?
 
 <br>
 
-## Problem Statement 2
-###  Agencias de marketing digital
+### Problem Statement 2
+####  Agencias de marketing digital
 
 | Componente | Descripción |
 |---|---|
@@ -271,7 +268,6 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 | **Vision / Strategy** | Convertirse en el hub de inteligencia reputacional para agencias, reduciendo su carga operativa y aumentando el valor percibido por sus clientes finales mediante reportes automatizados y alertas en tiempo real |
 | **Initial segment** | Agencias digitales medianas en Perú y LATAM con entre 3 y 30 empleados, que gestionan entre 5 y 30 cuentas de clientes activas simultáneamente |
 
-### Problem Statement
 
 > Hemos observado que las **agencias de marketing digital** enfrentan una gestión fragmentada de la reputación de sus clientes, sin una herramienta centralizada que consolide menciones, sentimiento y alertas de múltiples marcas en un solo lugar. Esto incrementa el tiempo operativo, reduce la capacidad de respuesta ante crisis y dificulta demostrar valor tangible al cliente. **¿Cómo podríamos** ofrecer una plataforma multimarca con reportería automatizada que permita a las agencias gestionar la reputación de todos sus clientes de forma eficiente y escalable?
 
