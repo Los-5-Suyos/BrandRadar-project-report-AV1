@@ -322,32 +322,20 @@ Fortalecer la toma de decisiones de comunicación con datos de sentimiento concr
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-> *(Estructura: "Creemos que [resultado] se logrará si [usuario] logra [beneficio] con [característica]")*
-
 **Hypothesis Statement 1:**
-> Creemos que al ofrecer un dashboard centralizado que consolide menciones de múltiples plataformas en tiempo real, las PyMEs y agencias percibirán mayor control sobre su reputación digital, lo que aumentará la adopción y retención de la plataforma.
-
-**Sabremos que hemos tenido éxito** cuando al menos el 65 % de los usuarios nuevos configure su primer proyecto de monitoreo de forma autónoma dentro de los primeros 7 días de registro..
+> Creemos que al ofrecer un dashboard centralizado que consolide menciones de múltiples plataformas en tiempo real, las PyMEs y agencias percibirán mayor control sobre su reputación digital, lo que aumentará la adopción y retención de la plataforma. **Sabremos que hemos tenido éxito** cuando al menos el 65 % de los usuarios nuevos configure su primer proyecto de monitoreo de forma autónoma dentro de los primeros 7 días de registro..
 
 **Hypothesis Statement 2:**
-> Creemos que al implementar un sistema de alertas automáticas configurables por palabras clave y umbral de sentimiento, los usuarios detectarán crisis reputacionales en etapas tempranas, reduciendo su impacto.
-
-**Sabremos que hemos tenido éxito** cuando el 70 % de los usuarios activos active al menos una alerta personalizada en su primera semana y reporte haber detectado una mención relevante gracias a la plataforma dentro del primer mes..
+> Creemos que al implementar un sistema de alertas automáticas configurables por palabras clave y umbral de sentimiento, los usuarios detectarán crisis reputacionales en etapas tempranas, reduciendo su impacto. **Sabremos que hemos tenido éxito** cuando el 70 % de los usuarios activos active al menos una alerta personalizada en su primera semana y reporte haber detectado una mención relevante gracias a la plataforma dentro del primer mes..
 
 **Hypothesis Statement 3:**
-> Creemos que si facilitamos la generación automática de reportes exportables con personalización de marca, las agencias de marketing digital reducirán su tiempo operativo y aumentarán el valor percibido por sus clientes.
-
-**Sabremos que hemos tenido éxito** cuando el 40 % de las agencias usuarias reduzca su tiempo de elaboración de reportes de reputación a menos de 30 minutos por cliente al mes, medido mediante encuesta de satisfacción al día 30.
+> Creemos que si facilitamos la generación automática de reportes exportables con personalización de marca, las agencias de marketing digital reducirán su tiempo operativo y aumentarán el valor percibido por sus clientes. **Sabremos que hemos tenido éxito** cuando el 40 % de las agencias usuarias reduzca su tiempo de elaboración de reportes de reputación a menos de 30 minutos por cliente al mes, medido mediante encuesta de satisfacción al día 30.
 
 **Hypothesis Statement 4:**
-> Creemos que si facilitamos la generación automática de reportes exportables con personalización de marca, las agencias de marketing digital reducirán su tiempo operativo y aumentarán el valor percibido por sus clientes.
-
-**Sabremos que hemos tenido éxito** cuando el 40 % de las agencias usuarias reduzca su tiempo de elaboración de reportes de reputación a menos de 30 minutos por cliente al mes, medido mediante encuesta de satisfacción al día 30..
+> Creemos que si facilitamos la generación automática de reportes exportables con personalización de marca, las agencias de marketing digital reducirán su tiempo operativo y aumentarán el valor percibido por sus clientes. **Sabremos que hemos tenido éxito** cuando el 40 % de las agencias usuarias reduzca su tiempo de elaboración de reportes de reputación a menos de 30 minutos por cliente al mes, medido mediante encuesta de satisfacción al día 30.
 
 **Hypothesis Statement 5:**
-> Creemos que al incluir análisis de sentimiento automatizado calibrado para español latinoamericano, los usuarios tomarán decisiones de comunicación más informadas y percibirán mayor valor en la plataforma frente a alternativas en inglés.
-
-**Sabremos que hemos tenido éxito** cuando el 75 % de los usuarios activos al final del primer mes reporte que el análisis de sentimiento fue útil para tomar al menos una decisión de comunicación, medido a través de encuesta NPS al día 30.
+> Creemos que al incluir análisis de sentimiento automatizado calibrado para español latinoamericano, los usuarios tomarán decisiones de comunicación más informadas y percibirán mayor valor en la plataforma frente a alternativas en inglés. **Sabremos que hemos tenido éxito** cuando el 75 % de los usuarios activos al final del primer mes reporte que el análisis de sentimiento fue útil para tomar al menos una decisión de comunicación, medido a través de encuesta NPS al día 30.
 
 ---
 
