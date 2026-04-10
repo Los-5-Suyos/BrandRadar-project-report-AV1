@@ -19,10 +19,6 @@
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-> *(Incluir foto, nombres, apellidos, código y descripción de cada integrante con sus principales conocimientos técnicos y habilidades que aporta al equipo)*
-
----
-
 #### 👤 Integrante 1
 
 <img src="../assets/team/integrante1.jpg" alt="Foto Integrante 1" width="120"/>
