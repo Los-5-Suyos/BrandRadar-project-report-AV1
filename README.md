@@ -35,7 +35,7 @@
 
 `U202410024` - `Jáuregui Cerna, Jean Franco` 
 
-`U20XXXXXXX` - `Apellido1 Apellido2, Nombre3` 
+`U202411354` - `Cruzalegui Herrera, Joaquin` 
 
 `U20XXXXXXX` - `Apellido1 Apellido2, Nombre4` 
 
