@@ -56,7 +56,7 @@ BrandRadar permite a las empresas:
 -  Analizar automáticamente el sentimiento de opiniones y comentarios  
 -  Detectar crisis reputacionales de manera temprana  
 -  Obtener información clara y accionable para mejorar su posicionamiento digital  
-
+<br>
 
 ## ⭐ Valores
 
@@ -65,7 +65,7 @@ BrandRadar permite a las empresas:
 -  **Orientación al cliente**: Enfoque en necesidades reales  
 -  **Responsabilidad**: Manejo ético y seguro de los datos  
 -  **Calidad**: Resultados precisos y útiles  
-
+<br>
 
 ## 🎯 Objetivos
 
@@ -176,12 +176,26 @@ BrandRadar permite a las empresas:
 *(Párrafo describiendo principales conocimientos técnicos y habilidades que puede aportar al equipo)*
 
 ---
+<br>
 
 ## 1.2. Solution Profile
 
-### 1.2.1. Antecedentes y problemática
+###   1.2.1. Antecedentes y problemática
+**- Antecedentes**
 
+**- What (Qué)**
 
+**- When (Cuándo)**
+
+**- Where (Dónde)**
+
+**- Who (Quién)**
+
+**- Why (Por qué)**
+
+**- How (Cómo)**
+
+**- How much (Cuánto)**
 
 ---
 
