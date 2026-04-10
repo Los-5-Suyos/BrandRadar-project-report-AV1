@@ -32,17 +32,21 @@ A través del uso de técnicas de análisis de datos y procesamiento de lenguaje
 
   <img src="../assets/images/brandradar.png" alt="BrandRadar Logo" width="200"/>
 
+<br>
 
 ##  Misión
 
 *"Brindar a empresas y marcas una herramienta tecnológica que les permita monitorear y analizar su reputación digital en tiempo real, facilitando la toma de decisiones estratégicas basadas en datos confiables."*
 
+<br>
 
 ##  Visión
 
 *"Ser una plataforma líder en Latinoamérica en gestión de reputación digital, reconocida por su innovación, precisión analítica y contribución al crecimiento de las marcas en el entorno digital."*
 
 </div>
+
+<br>
 
 ## 💡 Propuesta de Valor
 
