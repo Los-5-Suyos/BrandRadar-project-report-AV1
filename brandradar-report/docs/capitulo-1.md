@@ -81,6 +81,8 @@ BrandRadar permite a las empresas:
 ###   1.1.2. Perfiles de integrantes del equipo
 <br>
 
+<div align="center">
+  
 #### 👤 Integrante 1
 
 <img src="../assets/team/integrante1.jpg" alt="Foto Integrante 1" width="120"/>
@@ -90,6 +92,8 @@ BrandRadar permite a las empresas:
 | **Nombres y Apellidos** | `Salinas Guzmán, Brianna` |
 | **Código de estudiante** | `U202410239` |
 | **Carrera** | Ingeniería de Software |
+
+</div>
 
 **Descripción:**
 *Soy estudiante de Ingeniería de Software con conocimientos en desarrollo de aplicaciones, estructuras de datos y programación orientada a objetos. Tengo experiencia trabajando con lenguajes como C++ y en la gestión de proyectos utilizando Git y GitHub para el control de versiones. Además, cuento con formación complementaria en marketing digital, lo que me permite aportar una perspectiva orientada al usuario y al posicionamiento del producto. Me considero una persona responsable, con capacidad de aprendizaje autónomo y habilidades para trabajar en equipo y comunicar ideas de manera clara.*
