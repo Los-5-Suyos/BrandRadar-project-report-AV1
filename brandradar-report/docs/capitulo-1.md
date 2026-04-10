@@ -20,9 +20,11 @@ La plataforma permite a las organizaciones comprender cómo son percibidas en in
 
 A través del uso de técnicas de análisis de datos y procesamiento de lenguaje natural, BrandRadar identifica tendencias, evalúa el sentimiento de los usuarios (positivo, negativo o neutro) y detecta posibles riesgos reputacionales. Esto permite a las empresas tomar decisiones estratégicas, mejorar su posicionamiento y fortalecer su imagen en el entorno digital.
 
+<p align="center">
+  
 ###  Logo y nombre del proyecto:
 **BrandRadar**
-<p align="center">
+
   <img src="../assets/images/brandradar.png" alt="BrandRadar Logo" width="200"/>
 </p>
 
@@ -35,7 +37,7 @@ Brindar a empresas y marcas una herramienta tecnológica que les permita monitor
 
 Ser una plataforma líder en Latinoamérica en gestión de reputación digital, reconocida por su innovación, precisión analítica y contribución al crecimiento de las marcas en el entorno digital.
 
-
+</p>
 ## 💡 Propuesta de Valor
 
 BrandRadar permite a las empresas:
@@ -46,17 +48,6 @@ BrandRadar permite a las empresas:
 -  Obtener información clara y accionable para mejorar su posicionamiento digital  
 
 
-
-##  Diferenciación
-
-A diferencia de otras soluciones, BrandRadar se caracteriza por:
-
--  Monitoreo en tiempo real  
--  Análisis automatizado de sentimiento  
--  Plataforma intuitiva y fácil de usar  
--  Integración de múltiples fuentes digitales en un solo sistema  
-
-
 ## ⭐ Valores de la Empresa
 
 -  **Innovación**: Uso de tecnología para ofrecer soluciones modernas  
@@ -65,7 +56,6 @@ A diferencia de otras soluciones, BrandRadar se caracteriza por:
 -  **Responsabilidad**: Manejo ético y seguro de los datos  
 -  **Calidad**: Resultados precisos y útiles  
 
----
 
 ## 🎯 Objetivos de la Empresa
 
