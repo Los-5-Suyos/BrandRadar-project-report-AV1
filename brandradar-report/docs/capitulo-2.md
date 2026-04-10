@@ -1,4 +1,4 @@
-[← Capítulo I](./capitulo-1.md) &nbsp;|&nbsp; [← Volver al índice](../README.md)
+[← Capítulo I](./capitulo-1.md) &nbsp;|&nbsp; [← Volver al índice](../../README.md)
 
 ---
 
