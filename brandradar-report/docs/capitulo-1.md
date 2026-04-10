@@ -12,12 +12,56 @@
 
 ## 1.1. Startup Profile
 
-### 1.1.1. Descripción de la Startup
+###   1.1.1. Descripción de la Startup
 
+### 🏢 Startup: Kyuber
+
+Kyuber es una startup tecnológica enfocada en brindar soluciones de seguridad inteligente y accesible para hogares y pequeños negocios en el Perú.
+
+Su producto principal, **Locky**, es un ecosistema que integra:
+
+- 🔐 Cerraduras electrónicas  
+- 🚨 Alarmas comunitarias  
+- 📷 Cámaras de seguridad  
+- 🌡️ Sensores de seguridad (temperatura y movimiento)  
+
+Todo es gestionado desde una aplicación móvil centralizada que permite el registro de eventos y la notificación inmediata ante una emergencia.
+
+La propuesta combina **innovación, conectividad y facilidad de uso**, ofreciendo protección confiable a un precio competitivo, diferenciándose de alternativas importadas o de alto costo.
 
 ---
 
-### 1.1.2. Perfiles de integrantes del equipo
+### 🧩 Nombre del Proyecto
+
+**Sistema Integral de Seguridad Inteligente**  
+**LOCKY**
+
+---
+
+### 🎯 Misión
+
+Brindar soluciones de seguridad inteligente, confiable y accesible que protejan a las familias y pequeños negocios en el Perú, combinando tecnología innovadora con facilidad de uso para mejorar la calidad de vida y tranquilidad de nuestros clientes.
+
+---
+
+### 🚀 Visión
+
+Ser una propuesta de seguridad inteligente que integre tecnología, accesibilidad y confianza, orientada a mejorar la protección en hogares y pequeños negocios. 
+
+Aspiramos a un futuro en el que las soluciones digitales formen parte de la vida cotidiana, aportando tranquilidad, simplicidad y un entorno más seguro para las comunidades.
+
+---
+
+### 🎯 Objetivos
+
+- Diseñar y desarrollar un producto que responda a las necesidades reales de seguridad de los usuarios.  
+- Explorar el uso de tecnologías digitales para mejorar la protección en hogares y pequeños negocios.  
+- Promover la innovación y creatividad en cada etapa del proyecto.  
+- Generar una propuesta de valor clara y diferenciada frente a las soluciones tradicionales.  
+- Consolidar el aprendizaje del equipo a través del desarrollo de este proyecto académico.  
+---
+
+###   1.1.2. Perfiles de integrantes del equipo
 
 #### 👤 Integrante 1
 
