@@ -20,6 +20,7 @@ La plataforma permite a las organizaciones comprender cómo son percibidas en in
 
 A través del uso de técnicas de análisis de datos y procesamiento de lenguaje natural, BrandRadar identifica tendencias, evalúa el sentimiento de los usuarios (positivo, negativo o neutro) y detecta posibles riesgos reputacionales. Esto permite a las empresas tomar decisiones estratégicas, mejorar su posicionamiento y fortalecer su imagen en el entorno digital.
 
+<br>
 
 <div align="center">
   
