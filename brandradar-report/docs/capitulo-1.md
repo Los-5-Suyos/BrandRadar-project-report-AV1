@@ -23,7 +23,7 @@ A través del uso de técnicas de análisis de datos y procesamiento de lenguaje
 ###  Logo y nombre del proyecto:
 **BrandRadar**
 <p align="center">
-  <img src="assets/images/logo.png" alt="BrandRadar Logo" width="200"/>
+  <img src="../assets/images/logo.png" alt="BrandRadar Logo" width="200"/>
 </p>
 
 ##  Misión
