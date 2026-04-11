@@ -286,14 +286,14 @@ Los **ingresos de la empresa**
 <br>
 <div align="center">
   
-<img src="https://brightlocal-corp-assets.s3.amazonaws.com/brightlocal-corp-2026/wp/uploads/2026/02/LCRS_2026_09-93percentreadytopurchase-860x427.png" alt="How Much" width="450"/>
-(Backlinko, 2026)
-</div>
+<img src="https://brightlocal-corp-assets.s3.amazonaws.com/brightlocal-corp-2026/wp/uploads/2026/02/LCRS_2026_09-93percentreadytopurchase-860x427.png" alt="How Much" width="500"/>
+
+(BrightLocal, 2026)
 Lee reseñas frecuentemente
 Basa sus decisiones en opiniones de otros usuarios
 El 93 % de los consumidores ha realizado una compra tras leer reseñas. 
 
-
+</div>
 
 
 
@@ -303,11 +303,14 @@ El 93 % de los consumidores ha realizado una compra tras leer reseñas.
 <br>
 <div align="center">
   
-<img src="../assets/images/how.png" alt="How Much" width="400"/>
+<img src="../assets/images/how.png" alt="How Much" width="500"/>
 
-</div>
+(Backlinko, 2026)
 Más del 70 % de usuarios revisa reseñas regularmente
 Solo un porcentaje mínimo no las consulta
+
+</div>
+
 
 
 Estos resultados evidencian que una mala gestión de la reputación digital puede generar pérdida de clientes, disminución de ingresos y deterioro de la imagen de marca, lo que justifica la necesidad de soluciones como *BrandRadar*.
