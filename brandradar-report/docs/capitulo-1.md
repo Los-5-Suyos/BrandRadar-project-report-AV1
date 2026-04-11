@@ -386,7 +386,8 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 
 *Lean UX Canvas elaborado en la herramienta Figma*
 
-![Lean UX Canvas](../assets/lean-ux/lean-ux-canvas.png)
+
+![Lean UX Canvas](../assets/images/LEAN UX CANVAS.png)
 
 *El Lean UX Canvas fue diseñado utilizando Figma, lo que permitió estructurar de manera visual y colaborativa los principales componentes del proyecto. En este canvas se identifican los problemas del usuario, las hipótesis de solución, los segmentos de clientes, las propuestas de valor y las métricas clave. Además, su desarrollo facilitó la iteración rápida de ideas y la alineación del equipo en torno a los objetivos del producto, permitiendo validar supuestos de forma temprana y enfocar los esfuerzos en generar valor para el usuario final.*
 
