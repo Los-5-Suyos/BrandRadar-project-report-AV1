@@ -149,7 +149,7 @@ Con el objetivo de comprender mejor a los usuarios, se realizaron entrevistas a 
 
 | Campo | Detalle |
 |:------|:--------|
-| **Nombres y apellidos** | `Romina Apaza]` |
+| **Nombres y apellidos** | `Romina Apaza` |
 | **Edad** | `22 años` |
 | **Ubicación** | `Arequipa` |
 | **Fecha de entrevista** | `YYYY-MM-DD` |
