@@ -283,18 +283,16 @@ Los **ingresos de la empresa**
 ### 📊 Imagen 1: Influencia de las reseñas en decisiones de compra
 
 👉 Esta gráfica muestra cómo la mayoría de consumidores:
+
+Lee reseñas frecuentemente
+
+Basa sus decisiones en opiniones de otros usuarios
 <br>
 <div align="center">
   
 <img src="https://brightlocal-corp-assets.s3.amazonaws.com/brightlocal-corp-2026/wp/uploads/2026/02/LCRS_2026_09-93percentreadytopurchase-860x427.png" alt="How Much" width="500"/>
 
 (BrightLocal, 2026)
-
-Lee reseñas frecuentemente
-
-Basa sus decisiones en opiniones de otros usuarios
-
-El 93 % de los consumidores ha realizado una compra tras leer reseñas. 
 
 </div>
 
@@ -303,16 +301,17 @@ El 93 % de los consumidores ha realizado una compra tras leer reseñas.
 ###  📊 Imagen 2: Frecuencia de lectura de reseñas
 
 👉 Se observa que:
+
+Más del 70 % de usuarios revisa reseñas regularmente
+
+Solo un porcentaje mínimo no las consulta
+
 <br>
 <div align="center">
   
 <img src="../assets/images/how.png" alt="How Much" width="500"/>
 
 (Backlinko, 2026)
-
-Más del 70 % de usuarios revisa reseñas regularmente
-
-Solo un porcentaje mínimo no las consulta
 
 </div>
 
