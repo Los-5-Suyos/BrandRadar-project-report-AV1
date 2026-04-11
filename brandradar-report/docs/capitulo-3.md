@@ -66,6 +66,6 @@
 
 <div align="center">
 
-[← Capítulo II](./capitulo-2.md) &nbsp;|&nbsp; [Capítulo IV →](./capitulo-4.md) &nbsp;|&nbsp; [← Volver al índice](../README.md)
+[← Capítulo II](./capitulo-2.md) &nbsp;|&nbsp; [Capítulo IV →](./capitulo-4.md) &nbsp;|&nbsp; [← Volver al índice](../../README.md)
 
 </div>
