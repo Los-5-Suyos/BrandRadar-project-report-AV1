@@ -296,6 +296,6 @@ Tipos: feat | fix | docs | style | refactor | test | chore
 
 <div align="center">
 
-[← Capítulo IV](./capitulo-4.md) &nbsp;|&nbsp; [← Volver al índice](../README.md)
+[← Capítulo IV](./capitulo-4.md) &nbsp;|&nbsp; [← Volver al índice](../../README.md)
 
 </div>
