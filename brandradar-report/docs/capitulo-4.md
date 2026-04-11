@@ -316,6 +316,6 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 <div align="center">
 
-[← Capítulo III](./capitulo-3.md) &nbsp;|&nbsp; [Capítulo V →](./capitulo-5.md) &nbsp;|&nbsp; [← Volver al índice](../README.md)
+[← Capítulo III](./capitulo-3.md) &nbsp;|&nbsp; [Capítulo V →](./capitulo-5.md) &nbsp;|&nbsp; [← Volver al índice](../../README.md)
 
 </div>
