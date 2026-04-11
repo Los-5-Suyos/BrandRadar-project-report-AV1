@@ -187,14 +187,18 @@ Además, cuento con formación en marketing digital, lo que me permite aportar u
 ###  Antecedentes
 
 
-En la última década, la transformación digital ha reconfigurado significativamente el entorno competitivo de las organizaciones. La expansión de redes sociales, plataformas de reseñas, foros y medios digitales ha generado un ecosistema en el que los usuarios pueden influir directamente en la percepción pública de una marca en tiempo real. En este contexto, la reputación digital se ha convertido en un factor determinante para la toma de decisiones de los consumidores y el posicionamiento empresarial.
-Diversos estudios evidencian esta tendencia. Según BrightLocal (2023), el 93% de los consumidores consulta reseñas en línea antes de realizar una compra, lo que demuestra el alto nivel de influencia de la opinión digital en el comportamiento del mercado. Asimismo, investigaciones del World Economic Forum señalan que la reputación corporativa puede representar más del 25% del valor de una empresa, consolidándose como un activo estratégico clave.
+En la última década, la digitalización ha transformado significativamente la relación entre empresas y consumidores, trasladando gran parte de la interacción hacia entornos digitales. En este contexto, la reputación de marca ya no depende únicamente de la comunicación corporativa, sino también del contenido generado por los propios usuarios en internet.
 
-En este escenario, el monitoreo de marca (brand monitoring) ha evolucionado como una práctica fundamental dentro de la gestión empresarial. Las primeras herramientas de escucha digital surgieron a inicios de los años 2000, destacando Google Alerts, que permitió a las organizaciones rastrear menciones en la web de manera básica. Sin embargo, estas soluciones iniciales presentaban limitaciones importantes, ya que no integraban análisis avanzado ni procesamiento en tiempo real.
-Con el crecimiento exponencial del contenido generado por los usuarios, la gestión de la reputación digital se ha vuelto cada vez más compleja. Actualmente, las empresas enfrentan grandes volúmenes de información dispersa en múltiples plataformas, lo que dificulta la identificación oportuna de tendencias, opiniones negativas o posibles crisis reputacionales. Según Deloitte (2022), una crisis de reputación puede impactar significativamente el valor de marca en cuestión de horas, afectando la confianza del consumidor y los resultados financieros.
+De acuerdo con Statista (2025), las reseñas online se han convertido en un factor clave en la toma de decisiones de compra, siendo consideradas por el 62 % de los consumidores como muy influyentes al momento de elegir productos o servicios . Esto evidencia que la percepción digital de una marca impacta directamente en su desempeño comercial.
 
-En el contexto latinoamericano y peruano, esta problemática se intensifica debido al alto nivel de interacción digital de los usuarios. De acuerdo con Ipsos Perú (2023), el 85% de los consumidores peruanos revisa opiniones en línea antes de adquirir un producto o servicio, lo que evidencia la creciente dependencia de la reputación digital en los procesos de decisión.
-Frente a esta situación, surge la necesidad de soluciones tecnológicas más avanzadas que permitan a empresas, marcas e influencers monitorear, analizar y gestionar su reputación digital de manera integral y en tiempo real. En este contexto, BrandRadar se plantea como una aplicación web orientada a cubrir esta necesidad, facilitando la toma de decisiones estratégicas basadas en datos y mejorando la capacidad de respuesta ante cambios en la percepción pública.
+Asimismo, estudios recientes de BrightLocal (2026) muestran que el 97 % de los consumidores lee reseñas en línea antes de elegir un negocio, y que el 85 % es más propenso a confiar en empresas con opiniones positivas, mientras que el 77 % evita aquellas con reseñas negativas . Estos datos confirman que la reputación digital influye de manera directa en la confianza y decisión del consumidor.
+
+Por otro lado, investigaciones académicas también han demostrado que las reseñas digitales funcionan como un mecanismo que reduce la incertidumbre en los consumidores. Según Myle Ott, Claire Cardie y Jeff Hancock (2012), las opiniones en línea actúan como señales que permiten a los usuarios evaluar la calidad de un producto o servicio en ausencia de información directa .
+
+Sin embargo, el entorno digital actual también presenta desafíos importantes. La información sobre una marca se encuentra distribuida en múltiples plataformas, lo que dificulta su gestión. Además, el volumen de datos generado por los usuarios es cada vez mayor, lo que complica su análisis e interpretación. A esto se suma la existencia de información poco confiable o engañosa, lo que afecta la credibilidad del ecosistema digital. En este sentido, estudios recientes evidencian que más del 75 % de los consumidores desconfía de posibles reseñas falsas, lo que impacta directamente en la confianza hacia las marcas (Backlinko, 2026).
+
+En conjunto, estos factores demuestran que la reputación digital se ha convertido en un activo estratégico para las empresas, pero también en un desafío complejo de gestionar, especialmente para aquellas organizaciones que no cuentan con herramientas adecuadas para monitorear y analizar la información en tiempo real.
+
 
 <br>
 
@@ -203,31 +207,31 @@ Frente a esta situación, surge la necesidad de soluciones tecnológicas más av
 
   *Para comprender la problemática que aborda BrandRadar, se aplica la técnica de las 5W + 2H:*
 
-**• What — ¿Cuál es el problema?**
+####   What — ¿Cuál es el problema?
 
 Las marcas no cuentan con visibilidad en tiempo real sobre cómo son percibidas en internet. No saben qué se dice de ellas, dónde se dice, qué tono predomina ni cuándo una mención negativa está escalando hacia una crisis. Esta ausencia de información oportuna impide tomar decisiones correctivas antes de que el daño a la reputación sea irreversible.
 
-**• When — ¿Cuándo se presenta con mayor criticidad?**
+####   When — ¿Cuándo se presenta con mayor criticidad?
 
 El problema se vuelve crítico en momentos de alta exposición mediática: lanzamientos de productos, campañas publicitarias, controversias públicas o eventos del sector. No obstante, la naturaleza del entorno digital implica que la reputación está en juego de forma permanente y continua, las 24 horas del día, los 7 días de la semana.
 
-**• Where — ¿Dónde ocurre?**
+####   Where — ¿Dónde ocurre?
 
 El problema se manifiesta en el ecosistema digital en su conjunto: redes sociales (Instagram, X/Twitter, TikTok, LinkedIn, Facebook), plataformas de reseñas (Google, Trustpilot, TripAdvisor), foros y comunidades (Reddit, Quora), medios de comunicación digitales y blogs. La dispersión de fuentes hace imposible el monitoreo de forma manual.
 
-**• Who — ¿Quiénes son los afectados?**
+####   Who — ¿Quiénes son los afectados?
 
 Las empresas, marcas e influencers que mantienen presencia activa en entornos digitales y cuya reputación online influye directamente en su posicionamiento, credibilidad y resultados comerciales.
 
-**• Why — ¿Por qué es un problema relevante?**
+####   Why — ¿Por qué es un problema relevante?
 
 El problema se manifiesta en el ecosistema digital en su conjunto: redes sociales (Instagram, X/Twitter, TikTok, LinkedIn, Facebook), plataformas de reseñas (Google, Trustpilot, TripAdvisor), foros y comunidades (Reddit, Quora), medios de comunicación digitales y blogs. La dispersión de fuentes hace imposible el monitoreo manual.
 
-**• How — ¿Cómo se enfrenta actualmente el problema?**
+####   How — ¿Cómo se enfrenta actualmente el problema?
 
 La mayoría de empresas que no accede a soluciones especializadas recurre a métodos manuales: búsquedas periódicas en Google, revisión esporádica de redes sociales y alertas básicas por correo electrónico. Este enfoque reactivo resulta ineficiente, propenso a errores por omisión y absolutamente incapaz de detectar tendencias emergentes antes de que escalen. Quienes sí pueden pagar herramientas del mercado enfrentan interfaces complejas, exceso de datos sin contextualización y falta de acciones recomendadas.
 
-**• How Much — ¿Cuál es la magnitud del impacto?**
+####   How Much — ¿Cuál es la magnitud del impacto?
 
 El impacto de una reputación digital mal gestionada se refleja directamente en las ventas y en la percepción del consumidor. El 70 % de los consumidores no compra a empresas que tienen cuatro o más artículos negativos sobre sus marcas, productos o servicios en los resultados de búsqueda de Google ReputationUP (ReputationUP, 2024). Este dato se refuerza con el gráfico de Moz Consumer Surveys, que muestra que solo el 10,7 % de los compradores tolera cuatro o más artículos negativos antes de abandonar una marca, mientras que el 30,1 % afirma que no importa el número de artículos negativos —lo que evidencia que una fracción significativa del mercado abandona la marca ante cualquier señal de daño reputacional.
 <br>
