@@ -261,7 +261,7 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 
 > Hemos observado que las **pequeñas y medianas empresas con presencia digital** no cuentan con herramientas que les permitan monitorear su reputación en tiempo real, lo que provoca que no detecten a tiempo comentarios negativos o crisis reputacionales. Como resultado, reaccionan de forma tardía, toman decisiones sin datos claros y pierden control sobre la percepción de su marca.
 
-**¿Cómo podríamos permitir a estas empresas monitorear y detectar en tiempo real lo que se dice de su marca para gestionar su reputación de forma proactiva?**
+*"¿Cómo podríamos permitir a estas empresas monitorear y detectar en tiempo real lo que se dice de su marca para gestionar su reputación de forma proactiva?"*
 
 <br>
 
@@ -272,7 +272,7 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 
 > Hemos observado que las **agencias de marketing digital** enfrentan una gestión fragmentada de la reputación de sus clientes, sin una herramienta que centralice el monitoreo y permita detectar menciones relevantes en tiempo real. Esto incrementa el tiempo operativo, dificulta la respuesta oportuna ante crisis y limita la capacidad de gestionar múltiples marcas de forma eficiente.
 
-**¿Cómo podríamos centralizar el monitoreo de múltiples marcas y facilitar la detección oportuna de menciones críticas en un solo lugar?**
+*"¿Cómo podríamos centralizar el monitoreo de múltiples marcas y facilitar la detección oportuna de menciones críticas en un solo lugar?"*
 
 ---
 <br>
