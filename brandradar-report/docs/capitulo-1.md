@@ -229,12 +229,12 @@ La mayoría de empresas que no accede a soluciones especializadas recurre a mét
 
 El impacto de una reputación digital mal gestionada se refleja directamente en las ventas y en la percepción del consumidor. El 70 % de los consumidores no compra a empresas que tienen cuatro o más artículos negativos sobre sus marcas, productos o servicios en los resultados de búsqueda de Google ReputationUP (ReputationUP, 2024). Este dato se refuerza con el gráfico de Moz Consumer Surveys, que muestra que solo el 10,7 % de los compradores tolera cuatro o más artículos negativos antes de abandonar una marca, mientras que el 30,1 % afirma que no importa el número de artículos negativos —lo que evidencia que una fracción significativa del mercado abandona la marca ante cualquier señal de daño reputacional.
 
-<img src="./brandradar-report/assets/images/how3.png" alt="How Much" width="300"/>
+<img src="../assets/images/how3.png" alt="HowM" width="300"/>
 
 En el contexto peruano, la reputación digital de los líderes empresariales también es un activo estratégico medible. El ranking Top CEO Digital Perú 2024, publicado por Café Taipá en el diario Gestión y basado en el análisis de 720 CEOs de las empresas con mayor facturación en el país, evaluó la presencia y contenidos digitales de los directivos, incorporando criterios como el Knowledge Panel de Google, la confiabilidad percibida por inteligencia artificial y la coherencia entre el propósito corporativo y el discurso del ejecutivo en plataformas como LinkedIn y X cafetaipa (Café Taipá, 2024). Este estudio —en su décima edición— demuestra que la gestión de la reputación digital ya es un indicador de competitividad empresarial en el Perú, no solo un ejercicio de imagen.
 Asimismo, el 87 % de los ejecutivos a nivel global considera el riesgo reputacional más importante que cualquier otro riesgo que enfrenta la empresa, y más del 25 % del valor de mercado de las organizaciones se atribuye directamente a su reputación, según el World Economic Forum ReputationUP (ReputationUP, citando World Economic Forum, 2024).
 
-<img src="./brandradar-report/assets/images/how2.png" alt="How Much" width="300"/>
+<img src="../assets/images/how2.png" alt="How Much" width="300"/>
 
 ---
 <br>
