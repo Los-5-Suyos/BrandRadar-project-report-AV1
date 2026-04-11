@@ -283,6 +283,6 @@
 
 <div align="center">
 
-[← Capítulo I](./capitulo-1.md) &nbsp;|&nbsp; [Capítulo III →](./capitulo-3.md) &nbsp;|&nbsp; [← Volver al índice](../README.md)
+[← Capítulo I](./capitulo-1.md) &nbsp;|&nbsp; [Capítulo III →](./capitulo-3.md) &nbsp;|&nbsp; [← Volver al índice](../../README.md)
 
 </div>
