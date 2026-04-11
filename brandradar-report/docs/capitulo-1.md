@@ -298,64 +298,57 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 <br>
 
 #### 1.2.2.2. Lean UX Assumptions
+<br>
 
 #### Features
 
-  •  Registro de usuarios para acceder a la plataforma de monitoreo de reputación digital.
+  •  Registro de usuarios para acceder a la plataforma.
   
-  •  Gestión de perfiles con roles distintos (administrador de marca, analista, cliente de agencia).
+  •  Dashboard centralizado con menciones en tiempo real.
   
-  •  Dashboard centralizado con menciones en tiempo real provenientes de redes sociales, foros y medios digitales.
+  •  Sistema de alertas automáticas ante menciones negativas.
   
-  •  Monitoreo multimarca para agencias que gestionan múltiples clientes desde un solo panel.
+  •  Monitoreo de una o más fuentes digitales (ej. X/Twitter).
   
-  •  Sistema de alertas automáticas configurables por palabras clave, volumen de menciones y tono de sentimiento.
+  •  Análisis de sentimiento básico (positivo / neutro / negativo).
   
-  •  Análisis de sentimiento automatizado (positivo / neutro / negativo) calibrado para español latinoamericano.
-  
-  •  Generación automática de reportes exportables en PDF y CSV con personalización de marca.
-  
-  •  Historial de menciones y evolución de reputación a lo largo del tiempo.
-  
-  •  Integración con las principales fuentes digitales: Instagram, X/Twitter, Facebook, TikTok y Google.
-  
-  •  Planes escalables: versión gratuita con funcionalidades limitadas y planes premium por volumen de menciones y marcas.
+  •  Historial simple de menciones.
 
+<br>
 
 #### Business Outcomes
 
-  •  Alcanzar un 20 % de conversión de usuarios del plan gratuito a planes de pago en los primeros 90 días.
+  •  Reducir el tiempo de respuesta ante menciones negativas.
   
-  •  Retener al 75 % de los usuarios activos tras el primer mes de uso continuo.
+  •  Incrementar el sentimiento positivo de la marca.
   
-  •  Lograr que el 40 % de las agencias usuarias reporten una reducción significativa en su tiempo de reportería dentro de los primeros 2 meses.
+  •  Aumentar la retención de usuarios activos.
   
-  •  Captar al menos 50 agencias de marketing digital activas en Perú y LATAM durante los primeros 6 meses.
-  
-  •  Posicionar a BrandRadar como la solución de monitoreo de reputación digital de referencia para PyMEs y agencias en el mercado hispanohablante dentro de los primeros 12 meses.
+  •  Lograr adopción temprana de la plataforma en PyMEs y agencias.
 
+<br>
 
 #### Users
 
-  •  Pequeñas y medianas empresas con presencia digital activa que buscan proteger y gestionar su reputación online sin contar con un equipo especializado de comunicaciones.
+  •  Responsables de marketing o community managers que gestionan la reputación digital.
   
-  •  Agencias de marketing digital que gestionan la reputación de múltiples clientes simultáneamente y necesitan una herramienta centralizada, eficiente y fácil de reportar.
+  •  Pequeñas y medianas empresas con presencia online.
   
-  •  Usuarios que valoran la simplicidad, la accionabilidad de los datos y la posibilidad de recibir alertas automáticas sin necesidad de revisar manualmente múltiples plataformas.
+  •  Agencias de marketing digital que manejan múltiples marcas.
 
+<br>
 
 #### User Outcomes
 
-  •  Conocer en tiempo real qué se dice de su marca en internet sin revisar plataformas manualmente.
+  •  Conocer en tiempo real qué se dice de su marca.
   
-  •  Detectar y responder a crisis reputacionales antes de que escalen, reduciendo el impacto negativo.
+  •  Detectar rápidamente comentarios negativos o crisis.
   
-  •  Contar con reportes automáticos y claros que permitan demostrar valor a clientes o stakeholders sin esfuerzo manual.
+  •  Tomar decisiones basadas en datos de percepción.
   
-  •  Acceder a una solución asequible, en español y adaptada al contexto latinoamericano que no requiera conocimientos técnicos avanzados.
+  •  Ahorrar tiempo en el monitoreo manual de plataformas.
   
-  •  Fortalecer la toma de decisiones de comunicación con datos de sentimiento concretos y accionables.
-
+  •  Gestionar su reputación de forma proactiva en lugar de reactiva.
 
 ---
 
