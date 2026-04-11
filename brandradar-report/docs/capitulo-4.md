@@ -65,49 +65,80 @@
 
 ## 4.2. Information Architecture
 
-*(Decisiones que dirigen la organización del contenido en las experiencias web — Landing Page y Web Application)*
 
 ### 4.2.1. Organization Systems
 
-*(Explicar en qué grupos de información se aplica cada sistema de organización: jerárquica, secuencial o matricial; y los esquemas de categorización: alfabético, cronológico, por tópicos, según audiencia)*
+*(Organización Secuencial (Step-by-Step to Accomplish):
+Se utiliza en procesos clave como la configuración inicial de monitoreo de una marca y la generación de reportes. La plataforma guía al usuario paso a paso para configurar alertas, conectar fuentes de datos (redes sociales, Google Maps, sitio web propio) y generar informes de reputación. Esto asegura que el usuario complete la configuración de manera eficiente y ordenada, desde la adición de keywords y marcas hasta la activación de notificaciones en tiempo real y la revisión de análisis de sentimiento.)*
 
 ### 4.2.2. Labeling Systems
 
-*(Especificar las etiquetas a utilizar con el mínimo número de palabras, para representar los conjuntos de información y sus asociaciones)*
+*(Se procura evitar confusiones y que las etiquetas utilizadas sean descriptivas, simples y consistentes con la identidad de BrandRadar.
+Etiquetas para la Navbar (Barra de navegación principal):
 
-| Etiqueta | Descripción del contenido que representa |
-|:--------:|:-----------------------------------------|
-| `[Etiqueta]` | *(Descripción)* |
-| `[Etiqueta]` | *(Descripción)* |
-| `[Etiqueta]` | *(Descripción)* |
+Dashboard: Muestra una vista general en tiempo real del estado de la reputación digital de la marca, incluyendo alertas recientes, puntuación general y tendencias de sentimiento.
+Monitoreo: En esta sección se visualizan todas las menciones, reseñas y comentarios detectados en redes sociales, Google Maps y la web.
+Análisis de Sentimiento: Aquí se muestran los resultados del procesamiento de lenguaje natural (positivo, negativo o neutro) junto con tendencias e insights accionables.
+Alertas: En esta sección el usuario puede configurar y revisar notificaciones por reseñas negativas, caídas del sitio web u otras crisis reputacionales.
+Reportes: Permite generar y descargar informes claros y visuales con datos consolidados para la toma de decisiones.
+Fuentes: Gestión de las integraciones con APIs externas (redes sociales, Google, etc.) y configuración de keywords/marcas a monitorear.
+Perfil: Acceso a la cuenta del usuario, suscripción, equipo y configuración de notificaciones personales.
+
+Etiquetas para el cuerpo de la web / secciones principales:
+
+Menciones Recientes: Lista cronológica de todas las menciones detectadas con filtros por plataforma y sentimiento.
+Reseñas: Muestra calificaciones y comentarios de Google Maps, Facebook, TripAdvisor y otras plataformas de reseñas.
+Tendencias: Gráficos y resúmenes de evolución de la reputación a lo largo del tiempo.
+Crisis Detectadas: Sección dedicada a alertas críticas y posibles riesgos reputacionales.
+Insights: Recomendaciones accionables basadas en el análisis automático de datos.)*
+
 
 ### 4.2.3. SEO Tags and Meta Tags
 
 **Landing Page**
-
 ```html
-<title>[Título del Landing Page]</title>
-<meta name="description" content="[Descripción del Landing Page]" />
-<meta name="keywords" content="[keywords, separadas, por, comas]" />
-<meta name="author" content="[Nombre del Startup]" />
+<title>BrandRadar - Monitoreo de Reputación Digital en Tiempo Real</title>
+<meta name="description" content="BrandRadar monitorea constantemente tu huella digital en redes sociales, Google Maps y la web. Recibe alertas instantáneas por reseñas negativas, caídas de sitio web y protege la imagen de tu marca con análisis de sentimiento en tiempo real." />
+<meta name="keywords" content="monitoreo de reputación digital, reputación online, social listening, análisis de sentimiento, alertas de marca, gestión de reseñas, BrandRadar, protección de imagen corporativa, monitoreo Google Maps, crisis reputacional" />
+<meta name="author" content="BrandRadar" />
 ```
 
 **Web Application**
-
 ```html
-<title>[Título de la Web Application]</title>
-<meta name="description" content="[Descripción de la Web Application]" />
-<meta name="keywords" content="[keywords, separadas, por, comas]" />
-<meta name="author" content="[Nombre del Startup]" />
+<title>BrandRadar - Dashboard de Reputación Digital</title>
+<meta name="description" content="Plataforma profesional de monitoreo en tiempo real de menciones, reseñas y sentimiento de marca. Alertas automáticas, análisis con IA y reportes accionables para PyMEs y agencias digitales." />
+<meta name="keywords" content="monitoreo de marca, análisis de sentimiento, alertas reputacionales, social media monitoring, google maps reseñas, gestión de crisis online, herramienta de reputación digital, brand monitoring, brandradar" />
+<meta name="author" content="BrandRadar" />
 ```
 
 ### 4.2.4. Searching Systems
 
-*(Describir qué opciones de búsqueda ofrecen las aplicaciones, con qué filtros contará el usuario y cómo lucirán los datos después de la búsqueda)*
+*(Se expondrán los sistemas de búsqueda implementados para ayudar a los usuarios (dueños de PyMEs y account managers de agencias) a encontrar rápidamente la información que necesitan sobre su huella digital.
+En la Landing Page, los sistemas de búsqueda son estáticos y se centran en la navegación intuitiva hacia las secciones de beneficios, precios y contacto.
+En la aplicación web se implementan los siguientes métodos avanzados de búsqueda y filtrado:
+
+Método de búsqueda por barra: Búsqueda libre por nombre de marca, keyword, frase específica o URL del sitio web.
+Filtrado de búsqueda:
+Por plataforma (Instagram, Facebook, Google Maps, Twitter/X, TripAdvisor, web general, etc.)
+Por sentimiento (positivo, negativo, neutro)
+Por rango de fecha o período de tiempo
+Por tipo de mención (reseña, comentario, noticia, mención en redes)
+Por nivel de criticidad (alertas altas, medias, bajas)
+Por fuente específica o competidor (para benchmarking)
+
+
+Estos filtros combinados permiten a los usuarios aislar rápidamente menciones negativas, crisis emergentes o tendencias positivas.)*
 
 ### 4.2.5. Navigation Systems
 
-*(Explicar las acciones y técnicas que guiarán a los usuarios a través del Landing Page y las aplicaciones, describiendo cómo recorrerán el contenido)*
+*(BrandRadar ha implementado un enfoque intuitivo, limpio y eficiente para guiar a los usuarios a través de la plataforma. La barra de navegación superior es fija y está organizada por prioridad de uso (Dashboard primero, luego Monitoreo y Alertas), facilitando el acceso rápido a las funciones más críticas como las alertas en tiempo real.
+Adicionalmente, se incluye:
+
+Navegación lateral (sidebar) en el Dashboard para acceder rápidamente a resúmenes por marca o cliente.
+Breadcrumbs (migas de pan) en páginas profundas para mostrar la ruta (ejemplo: Dashboard > Monitoreo > Reseñas Google Maps).
+Botones de acción contextuales (como “Ver todas las alertas” o “Generar reporte”) en cada sección para reducir clics y mejorar la experiencia.
+
+La navegación está diseñada pensando en dos segmentos principales: dueños de PyMEs (experiencia simple y visual) y account managers de agencias (capacidad de gestionar múltiples marcas desde un solo panel centralizado).)*
 
 ---
 
