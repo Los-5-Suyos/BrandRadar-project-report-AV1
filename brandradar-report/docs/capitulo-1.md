@@ -234,9 +234,10 @@ El impacto de una reputación digital mal gestionada se refleja directamente en 
 </div>
 En el contexto peruano, la reputación digital de los líderes empresariales también es un activo estratégico medible. El ranking Top CEO Digital Perú 2024, publicado por Café Taipá en el diario Gestión y basado en el análisis de 720 CEOs de las empresas con mayor facturación en el país, evaluó la presencia y contenidos digitales de los directivos, incorporando criterios como el Knowledge Panel de Google, la confiabilidad percibida por inteligencia artificial y la coherencia entre el propósito corporativo y el discurso del ejecutivo en plataformas como LinkedIn y X cafetaipa (Café Taipá, 2024). Este estudio —en su décima edición— demuestra que la gestión de la reputación digital ya es un indicador de competitividad empresarial en el Perú, no solo un ejercicio de imagen.
 Asimismo, el 87 % de los ejecutivos a nivel global considera el riesgo reputacional más importante que cualquier otro riesgo que enfrenta la empresa, y más del 25 % del valor de mercado de las organizaciones se atribuye directamente a su reputación, según el World Economic Forum ReputationUP (ReputationUP, citando World Economic Forum, 2024).
-<br>
 
+<br>
 <div align="center">
+  
 <img src="../assets/images/how2.png" alt="How Much" width="470"/>
 </div>
 ---
