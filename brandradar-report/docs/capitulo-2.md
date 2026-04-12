@@ -317,9 +317,9 @@ Al reflexionar sobre el impacto del entorno digital en sus ventas, Jenifer seña
 
 ### 2.3.2. User Task Matrix
 
-*(Introducción estableciendo los segmentos considerados)*
+La siguiente matriz identifica las tareas principales que realizan los dos User Personas definidos: dueños de PyMEs y account managers de agencias digitales. Se evalúan según su referencia de ejecuciín y su importancia dentro del flujo de trabajo.
 
-| Tarea (Task) | `[Persona 1]` Frecuencia | `[Persona 1]` Importancia | `[Persona 2]` Frecuencia | `[Persona 2]` Importancia |
+| Tarea (Task) | `PyMe (Dueño de negocio)` Frecuencia | `[Persona 1]` Importancia | `[Persona 2]` Frecuencia | `[Persona 2]` Importancia |
 |:-------------|:------------------------:|:-------------------------:|:------------------------:|:-------------------------:|
 | *(Tarea 1)* | Alta / Media / Baja | Alta / Media / Baja | Alta / Media / Baja | Alta / Media / Baja |
 | *(Tarea 2)* | | | | |
