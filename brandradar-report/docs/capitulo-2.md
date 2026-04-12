@@ -22,7 +22,7 @@ A continuación, se presenta el *Competitive Analysis Landscape* para evaluar a 
 | :--- | :--- | :--- | :--- | :--- |
 | **¿Por qué llevar a cabo este análisis?** | Identificar las brechas tecnológicas y de usabilidad en las plataformas actuales para posicionar a BrandRadar como una solución SaaS accesible y proactiva para PyMEs y agencias en LATAM. | | | |
 | | **BrandRadar** | **Metricool** | **Mention** | **Google Alerts** |
-| **Perfil** | <img src="../assets/images/brandRadar.png" alt="BrandRadar" width="500"/> <br> Plataforma B2B que consolida el monitoreo de redes y el estado de la infraestructura web en un solo panel de control. | <img src="../assets/images/metricool.png" alt="Metricool" width="500"/> <br> Plataforma integral de gestión, planificación y analítica de redes sociales. | <img src="../assets/images/mention.png" alt="Mention" width="200"/> <br> Software corporativo especializado puramente en *social listening* y monitoreo de marca global. | <img src="../assets/images/google_Alerts.png" alt="GoogleAlerts" width="500"/> <br> Servicio clásico y gratuito de Google enfocado en la detección de cambios de contenido web. |
+| **Perfil** | <img src="../assets/images/brandradar.png" alt="BrandRadar" width="500"/> <br> Plataforma B2B que consolida el monitoreo de redes y el estado de la infraestructura web en un solo panel de control. | <img src="../assets/images/metricool.png" alt="Metricool" width="500"/> <br> Plataforma integral de gestión, planificación y analítica de redes sociales. | <img src="../assets/images/mention.png" alt="Mention" width="200"/> <br> Software corporativo especializado puramente en *social listening* y monitoreo de marca global. | <img src="../assets/images/google_alerts.png" alt="GoogleAlerts" width="500"/> <br> Servicio clásico y gratuito de Google enfocado en la detección de cambios de contenido web. |
 | **Ventaja competitiva** | Análisis de sentimiento (NLP) calibrado para español latino, con alertas de caídas de servidores (downtime) en tiempo real. | Interfaz altamente visual que simplifica la programación masiva y la generación de reportes con un clic. | Capacidad de rastreo masivo utilizando Big Data; escanea millones de fuentes diarias con filtros complejos. | Es 100% gratuito, fácil de configurar y respaldado por la indexación web más grande del mundo. |
 | **Mercado objetivo** | Dueños de PyMEs y directores de Agencias Digitales pequeñas y medianas en LATAM. | Community Managers, creadores de contenido (influencers) y agencias de marketing digital. | Medianas y grandes corporaciones, marcas globales y equipos internos de Relaciones Públicas (PR). | Público general, investigadores e individuos que monitorean su marca personal. |
 | **Perfil de Marketing de Producto** | | | | |
@@ -36,21 +36,6 @@ A continuación, se presenta el *Competitive Analysis Landscape* para evaluar a 
 | **Oportunidades** | Alta vulnerabilidad de las PyMEs ante crisis en redes sociales y falta de herramientas de "prevención". | Integrar módulos básicos de IA para el análisis de sentimiento de los comentarios que ya reciben. | Expansión hacia el mercado de la pequeña empresa mediante versiones "Lite" mucho más económicas. | Evolución del servicio integrando IA generativa (Gemini) para categorizar las alertas. |
 | **Amenazas** | Desarrollo rápido de módulos similares por parte de competidores indirectos consolidados. | Alta dependencia de APIs de redes sociales (Meta, X), cuyos cambios pueden quebrar su funcionamiento. | Startups locales que ofrecen resúmenes de menciones mediante IA a una fracción del costo. | Obsolescencia progresiva frente a crisis que ocurren en redes sociales y no en webs tradicionales. |
 
-<br>
-
-### 2.1.2. Estrategias y tácticas frente a competidores
-
-Para asegurar la viabilidad del modelo de negocio de BrandRadar, se implementarán las siguientes estrategias competitivas, basadas en aprovechar las vulnerabilidades tecnológicas y comerciales de la competencia:
-
-1.  **Estrategia de Enfoque en Prevención (Frente a Metricool):**
-    Mientras Metricool se posiciona como una herramienta de productividad operativa (publicar), BrandRadar se posicionará bajo una estrategia de mitigación de riesgos.
-    * **Táctica:** Implementar y destacar el sistema de alertas *push* y notificaciones por correo ante caídas de sitios web y picos inusuales de comentarios negativos. Se educará a la agencia digital demostrando que BrandRadar salva a sus clientes de perder dinero, justificando su contratación en paralelo a sus herramientas de publicación actuales.
-2.  **Estrategia de Liderazgo en Costos y Usabilidad (Frente a Mention):**
-    Mention domina el sector corporativo, pero abandona a la base de la pirámide empresarial. BrandRadar aplicará una estrategia de democratización tecnológica.
-    * **Táctica:** Desarrollar una interfaz de usuario (UI) minimalista que traduzca datos complejos en semáforos de reputación (Verde, Amarillo, Rojo). Comercialmente, se ofrecerá un modelo SaaS con precios en moneda local que reduzca la barrera de entrada económica, convirtiendo a BrandRadar en la primera herramienta de escucha social accesible para la PyME.
-3.  **Estrategia de Diferenciación Tecnológica (Frente a Google Alerts):**
-    Google Alerts soluciona el problema de la "búsqueda", pero no el de la "interpretación".
-    * **Táctica:** Sustituir la simple coincidencia de palabras clave por algoritmos de Procesamiento de Lenguaje Natural (NLP). La campaña de posicionamiento resaltará que "saber que hablan de ti no es suficiente; necesitas saber cómo se sienten al respecto", destacando el análisis de sentimiento en redes sociales como el diferencial crítico que las herramientas gratuitas no pueden igualar.
 <br>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
