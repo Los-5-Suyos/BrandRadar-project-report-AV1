@@ -151,14 +151,12 @@ Finalmente, considera que una aplicación podría ayudarle a fortalecer su image
   
 #### Entrevista 2
 
-*Imagen de la entrevista*
-
-![Screenshot Entrevista 2](../assets/interviews/entrevista-seg1-2.png)
+![Screenshot Entrevista 2](../assets/interviews/ss_entrevista_2.png)
 
 | Campo | Detalle |
 |:------|:--------|
 | **Nombres y apellidos** | `Jenifer Natali López Huamán` |
-| **Edad** | `23` |
+| **Edad** | `22` |
 | **Ubicación** | `Surco` |
 | **Fecha de entrevista** | `2026-04-11` |
 | **Duración** | `09:03` |
@@ -167,7 +165,7 @@ Finalmente, considera que una aplicación podría ayudarle a fortalecer su image
 **Resumen:**
 </div>
 
-La entrevista fue realizada a Jenifer Natali Lopez Huamán, una estudiante de administración y emprendedora de 23 años, como parte de la validación del proyecto BrandRadar. Esta iniciativa consiste en una aplicación web diseñada para el monitoreo y análisis en tiempo real de la reputación digital de las marcas. Durante la conversación, Jenifer compartió su experiencia como fundadora de Siana Boutique, una tienda de ropa femenina que inició sus operaciones de manera virtual durante la pandemia y que, tras un periodo de esfuerzo y ahorro, logró expandirse a un local físico para ofrecer una atención presencial y directa.
+La entrevista fue realizada a Jenifer Natali Lopez Huamán, una estudiante de administración y emprendedora de 22 años, como parte de la validación del proyecto BrandRadar. Esta iniciativa consiste en una aplicación web diseñada para el monitoreo y análisis en tiempo real de la reputación digital de las marcas. Durante la conversación, Jenifer compartió su experiencia como fundadora de Siana Boutique, una tienda de ropa femenina que inició sus operaciones de manera virtual durante la pandemia y que, tras un periodo de esfuerzo y ahorro, logró expandirse a un local físico para ofrecer una atención presencial y directa.
 
 En la gestión diaria de su negocio, Jenifer encuentra inspiración en grandes marcas de retail como Zara, Shein y H&M, así como en creadores de contenido en plataformas como Instagram y TikTok. Su principal herramienta de trabajo es el celular, dispositivo indispensable para la venta, la creación de contenido y la gestión de redes, mientras que reserva el uso de la laptop para labores administrativas y pedidos a proveedores. A nivel de comunicación, WhatsApp es su canal estrella para cerrar ventas gracias a la confianza que genera, respaldándose en Instagram como catálogo visual y en Facebook (especialmente Marketplace) para atraer a la clientela local.
 
