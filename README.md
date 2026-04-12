@@ -39,7 +39,7 @@
 
 `U202012001` - `Garcia Paredes, Victor Manuel` 
 
-`U20XXXXXXX` - `Apellido1 Apellido2, Nombre5` 
+`U202417228` - `Acuña de la Cruz, Luis` 
 
 
 ### **Abril 2026**
@@ -55,7 +55,7 @@
 
 | Versión | Fecha | Participantes | Descripción de modificación |
 |:-------:|:-----:|:-----:|:---------------------------|
-| AV1 | 2026-04-08 | Salinas Guzmán, Brianna Cristina <br> Jáuregui Cerna, Jean Franco <br> Cruzalegui Herrera, Joaquin <br> Garcia Paredes, Victor Manuel <br> Nombre 5 | Avance 1 del reporte del proyecto y primera versión de la landing page |
+| AV1 | 2026-04-08 | Salinas Guzmán, Brianna Cristina <br> Jáuregui Cerna, Jean Franco <br> Cruzalegui Herrera, Joaquin <br> Garcia Paredes, Victor Manuel <br> Acuña de la Cruz, Luis | Avance 1 del reporte del proyecto y primera versión de la landing page |
 | | | | |
 
 </div>
@@ -172,8 +172,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |:---|:---|:---|
-| **3.c1. Comunica oralmente con efectividad a diferentes rangos de audiencia.** | **Salinas, Brianna** <br> AV1: (acción específica) <br><br> **Jáuregui, Jean Franco** <br> AV1: (acción específica) <br><br> **Cruzalegui, Joaquin** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 4]** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 5]** <br> AV1: (acción específica) | (Completar de forma grupal en cada entrega) |
-| **3.c1. Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Salinas, Brianna** <br> AV1: (acción específica) <br><br> **Jáuregui, Jean Franco** <br> AV1: (acción específica) <br><br> **Cruzalegui, Joaquin** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 4]** <br> AV1: (acción específica) <br><br> **[Apellido, Nombre 5]** <br> AV1: (acción específica) | (Completar de forma grupal en cada entrega) |
+| **3.c1. Comunica oralmente con efectividad a diferentes rangos de audiencia.** | **Salinas, Brianna** <br> AV1: (acción específica) <br><br> **Jáuregui, Jean Franco** <br> AV1: (acción específica) <br><br> **Cruzalegui, Joaquin** <br> AV1: (acción específica) <br><br> **Garcia Paredes, Victor** <br> AV1: (acción específica) <br><br> **Acuña de la Cruz, Luis** <br> AV1: (acción específica) | (Completar de forma grupal en cada entrega) |
+| **3.c1. Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Salinas, Brianna** <br> AV1: (acción específica) <br><br> **Jáuregui, Jean Franco** <br> AV1: (acción específica) <br><br> **Cruzalegui, Joaquin** <br> AV1: (acción específica) <br><br> **Garcia Paredes, Victor** <br> AV1: (acción específica) <br><br> **Acuña de la Cruz, Luis** <br> AV1: (acción específica) | (Completar de forma grupal en cada entrega) |
 
 ---
 
