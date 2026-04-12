@@ -144,31 +144,58 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 ## 4.3. Landing Page UI Design
 
-*(Introducción explicando cómo se traducen las decisiones de diseño y arquitectura de información)*
+En esta sección se presenta la propuesta de interfaz de usuario (UI) para el Landing Page de *BrandRadar*. El diseño se basa en los hallazgos obtenidos durante el proceso de investigación (entrevistas y Lean UX), priorizando las necesidades de los usuarios, especialmente la visualización clara de la reputación digital y el acceso rápido a información relevante.
+
+Asimismo, se han aplicado principios de diseño centrados en el usuario, una arquitectura de información clara y un enfoque visual moderno, con el objetivo de comunicar de manera efectiva el valor de la plataforma y facilitar la conversión de usuarios.
+
 
 ### 4.3.1. Landing Page Wireframe
 
-*(Wireframes del Landing Page para Desktop Web Browser y Mobile Web Browser)*
+Los wireframes representan la estructura base del Landing Page, permitiendo definir la organización de contenidos, jerarquía visual y flujo de navegación antes de aplicar estilos visuales.
+
+Se desarrollaron versiones para:
+
+- Desktop Web Browser
+  
+- Mobile Web Browser
+
+
 
 **Desktop Web Browser**
+
+*Elaboración propia en Figma*
 
 ![Landing Page Wireframe Desktop](../assets/landing-page/wireframe-desktop.png)
 
 **Mobile Web Browser**
 
+*Elaboración propia en Figma*
+
 ![Landing Page Wireframe Mobile](../assets/landing-page/wireframe-mobile.png)
+
+
+
+
+
 
 ### 4.3.2. Landing Page Mock-up
 
-*(Mock-ups del Landing Page para Desktop y Mobile, con Design System aplicado)*
+Los mock-ups representan la versión visual final del Landing Page, incorporando colores, tipografía, iconografía y estilos definidos en el Design System.
 
 **Desktop Web Browser**
+
+*Elaboración propia en Figma*
 
 ![Landing Page Mockup Desktop](../assets/landing-page/mockup-desktop.png)
 
 **Mobile Web Browser**
 
+*Elaboración propia en Figma*
+
 ![Landing Page Mockup Mobile](../assets/landing-page/mockup-mobile.png)
+
+
+
 
 ---
 
