@@ -56,35 +56,48 @@ Para asegurar la viabilidad del modelo de negocio de BrandRadar, se implementar�
 
 ## 2.2. Entrevistas
 
-Con el objetivo de comprender mejor a los usuarios, se realizaron entrevistas a PyMEs y profesionales de marketing digital. Estas permitieron identificar cómo gestionan actualmente su reputación online, sus principales dificultades y necesidades.
-
 ### 2.2.1. Diseño de entrevistas
 
-*(Incluir las preguntas principales y complementarias para entrevistas, dirigidas a cada segmento objetivo)*
+Para validar las hipótesis y recolectar la información necesaria para construir los *User Personas*, se han diseñado dos cuestionarios adaptados a los segmentos objetivo de BrandRadar. Las entrevistas siguen una estructura de embudo, iniciando con datos demográficos y culminando en la exploración del problema.
 
-**Segmento objetivo 1: `Pequeñas y medianas empresas y marcas digitales (PyMEs)`**
+#### Segmento 1: Dueños y Administradores de Negocios Locales (PyMEs)
+**Bloque Demográfico y de Perfil:**
+1. ¿Podrías presentarte contándome tu edad, dónde vives, con quiénes vives y a qué te dedicas exactamente?
+2. ¿Cómo resumirías tu camino profesional hasta llegar a administrar este negocio?
+3. Si tuvieras que describir tu personalidad y tus principales habilidades en el trabajo en tres palabras, ¿cuáles serían y por qué?
+4. ¿Cuáles son las marcas (nacionales o internacionales) o referentes que más te inspiran en tu día a día o para tu negocio?
 
-*Preguntas principales:*
-1. *(Pregunta 1)*
-2. *(Pregunta 2)*
-3. *(Pregunta 3)*
+**Bloque de Tecnología y Objetivos:**
+5. ¿Cuáles son los dispositivos tecnológicos que más utilizas en tu día a día y para qué usas cada uno?
+6. ¿Por qué canales digitales prefieres comunicarte tanto a nivel personal como para atender tu negocio?
+7. ¿Cuáles son tus metas u objetivos principales con tu negocio para este año?
+8. ¿Qué es lo que más te frustra o te quita el sueño en tu día a día administrando el negocio?
 
-*Preguntas complementarias:*
-1. *(Pregunta complementaria 1)*
-2. *(Pregunta complementaria 2)*
+**Bloque de Exploración del Problema:**
+9. ¿Cómo te enteras actualmente cuando un cliente deja una reseña (positiva o negativa) en Google Maps, Facebook o TripAdvisor?
+10. Cuéntame sobre la última vez que recibiste un comentario muy negativo o una queja pública. ¿Cómo reaccionaste y cuánto tiempo te tomó darte cuenta?
+11. Si tuvieras una página web propia, ¿cómo te darías cuenta si se cae o deja de funcionar y qué impacto tendría esto en tu día?
+12. Si pudieras tener una herramienta ideal que te quite un peso de encima respecto a la imagen de tu marca en internet, ¿qué te gustaría que hiciera por ti?
 
----
+#### Segmento 2: Directores y Account Managers de Agencias Digitales
+**Bloque Demográfico y de Perfil:**
+1. ¿Podrías presentarte indicando tu edad, distrito de residencia, estado civil y cuál es tu rol exacto en la agencia?
+2. ¿Cómo ha sido tu background profesional para llegar a este puesto donde gestionas múltiples marcas?
+3. ¿Cómo describirías tu personalidad trabajando bajo presión y cuáles crees que son tus mejores habilidades profesionales?
+4. ¿Qué marcas, agencias referentes o "influencias" del rubro sigues para mantenerte actualizado?
 
-**Segmento objetivo 2: `Especialistas de marketing o community managers`**
+**Bloque de Tecnología y Objetivos:**
+5. Como profesional digital, ¿qué dispositivos de hardware y navegadores web utilizas en tu día a día?
+6. ¿Qué plataformas o canales de interacción utilizas para organizarte con tu equipo y comunicarte con tus clientes?
+7. ¿Cuál es tu principal objetivo o meta al momento de entregarle resultados a las marcas que confían en tu agencia?
+8. ¿Qué tareas operativas son las que más te frustran, te estresan o te quitan tiempo productivo en tu jornada laboral?
 
-*Preguntas principales:*
-1. *(Pregunta 1)*
-2. *(Pregunta 2)*
-3. *(Pregunta 3)*
-
-*Preguntas complementarias:*
-1. *(Pregunta complementaria 1)*
-2. *(Pregunta complementaria 2)*
+**Bloque de Exploración del Problema:**
+9. ¿Cómo es el proceso actual en tu agencia para monitorear el sentimiento y las menciones de los clientes que manejan?
+10. ¿Qué herramientas usan actualmente para este monitoreo y qué limitaciones sienten que tienen?
+11. ¿Cuánto tiempo estimas que invierte tu equipo mensualmente armando reportes de reputación para los clientes?
+12. Cuéntame de alguna crisis en redes sociales que haya tenido uno de tus clientes. ¿Cómo se enteraron y qué tan rápido actuaron?
+13. Si pudieras centralizar toda la información de la "huella digital" de tus clientes y recibir alertas automáticas, ¿qué datos específicos te gustaría ver en un solo panel?
 
 ---
 
