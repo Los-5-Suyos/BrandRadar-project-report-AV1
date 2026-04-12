@@ -123,7 +123,7 @@ Para validar las hipótesis y recolectar la información necesaria para construi
 | Campo | Detalle |
 |:------|:--------|
 | **Nombres y apellidos** | `Alfredo Negrete` |
-| **Edad** | `49` |
+| **Edad** | `49 años` |
 | **Ubicación** | `Surco` |
 | **Fecha de entrevista** | `2026-04-11` |
 | **Duración** | `00:15` |
