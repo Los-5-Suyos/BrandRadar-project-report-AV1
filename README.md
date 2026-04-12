@@ -55,7 +55,7 @@
 
 | Versión | Fecha | Participantes | Descripción de modificación |
 |:-------:|:-----:|:-----:|:---------------------------|
-| AV1 | 2026-04-08 | Salinas Guzmán, Brianna Cristina <br>Jáuregui Cerna, Jean Franco <br>Cruzalegui Herrera, Joaquin <br>Garcia Paredes, Victor Manuel <br>Nombre 5 | Avance 1 del reporte del proyecto y primera versión de la landing page |
+| AV1 | 2026-04-08 | Salinas Guzmán, Brianna Cristina <br> Jáuregui Cerna, Jean Franco <br> Cruzalegui Herrera, Joaquin <br> Garcia Paredes, Victor Manuel <br> Nombre 5 | Avance 1 del reporte del proyecto y primera versión de la landing page |
 | | | | |
 
 </div>
