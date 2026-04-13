@@ -32,6 +32,7 @@ Finalmente, se plantea una estrategia de diferenciación tecnológica frente a s
 En conjunto, estas estrategias permiten posicionar a BrandRadar como una solución accesible, inteligente y orientada a la acción dentro del mercado de monitoreo de reputación digital.
 
 <br>
+
 ---
 
 ## 2.2. Entrevistas
