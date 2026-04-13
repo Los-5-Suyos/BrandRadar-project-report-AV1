@@ -106,6 +106,7 @@ Para este segmento, las entrevistas estuvieron orientadas a comprender cómo las
 ¿Qué te gustaría mejorar en la gestión de tu marca?
 
 <br>
+
 ---
 
 ### Segmento 2: Especialistas de marketing o community managers
