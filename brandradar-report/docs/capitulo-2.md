@@ -35,6 +35,8 @@ En conjunto, estas estrategias permiten posicionar a BrandRadar como una soluciÃ
 
 ---
 
+<br>
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. DiseÃ±o de entrevistas
