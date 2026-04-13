@@ -367,7 +367,13 @@ Al explorar sus dolores y frustraciones, los dueños de negocios manifestaron su
 
 *(Introducción explicando la relación entre los artefactos y las principales características tomadas del análisis de entrevistas y competencia)*
 
-**User Persona — Segmento 1: `[Nombre del Persona]`**
+**User Persona — Segmento 1: `Alfredo Negrete`**
+
+*(Captura de la ficha elaborada en UXPressia)*
+
+![User Persona Segmento 1](../assets/user-personas/user-persona-seg1.png)
+
+**User Persona — Segmento 1: `Jenifer López`**
 
 *(Captura de la ficha elaborada en UXPressia)*
 
