@@ -12,8 +12,6 @@
 
 ## 2.1. Competidores
 
-> *(Identificar y describir mínimo 3 competidores directos o indirectos con modelos de negocio basados en productos digitales similares)*
-
 ### 2.1.1. Análisis competitivo
 
 A continuación, se presenta el *Competitive Analysis Landscape* para evaluar a BrandRadar frente a las principales alternativas del mercado.
