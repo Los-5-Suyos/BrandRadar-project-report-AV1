@@ -227,18 +227,27 @@ Al reflexionar sobre el impacto del entorno digital en sus ventas, Jenifer seña
 
 | Campo | Detalle |
 |:------|:--------|
-| **Nombres y apellidos** | `[Nombre del entrevistado]` |
-| **Edad** | `[Edad]` |
-| **Ubicación** | `[Distrito]` |
-| **Fecha de entrevista** | `YYYY-MM-DD` |
-| **Duración** | `[HH:MM]` |
-| **Enlace al video** | [Ver entrevista en Microsoft Stream](`URL`) — Inicia en `[MM:SS]` |
+| **Nombres y apellidos** | `[Karim Castillo]` |
+| **Edad** | `[25]` |
+| **Ubicación** | `[San Isidro]` |
+| **Fecha de entrevista** | `2026-04-12` |
+| **Duración** | `[07:12]` |
+| **Enlace al video** | [Ver entrevista en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417228_upc_edu_pe/IQAYoH-uIHznQpUZ1saYqN0MATxVGo0pPEIlJliRq-sOhf8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pA0fuu) — Inicia en `[00:00]` |
 
 **Resumen:**
 
 </div>
 
-*Redactar resumen de la entrevista*
+La entrevista fue realizada a Karim Castillo, un joven emprendedor de 25 años, como parte de la validación del proyecto BrandRadar. Esta iniciativa consiste en una aplicación web diseñada para el monitoreo y análisis en tiempo real de la reputación digital de las marcas. Durante la conversación, Karim compartió su experiencia como fundador y gerente de dos cafeterías especializadas en café de especialidad, desayunos saludables y postres, ubicadas en San Isidro y Miraflores. Su negocio inició hace dos años y medio, tras haber trabajado como barista mientras estudiaba Administración de Empresas.
+
+En la gestión diaria de sus cafeterías, Karim encuentra inspiración en marcas internacionales como Starbucks por la experiencia que brindan al cliente, y en marcas locales como La Brea y Cholo’s, que han logrado un buen crecimiento manteniendo calidad. Su principal herramienta de trabajo es el celular Android, que utiliza constantemente para comunicarse por WhatsApp con proveedores y equipo, revisar reseñas en Google Maps e Instagram, y atender clientes. Reserva la laptop para labores administrativas como revisar ventas, realizar pedidos grandes y llevar la contabilidad.
+
+A nivel de comunicación, WhatsApp es su canal principal tanto para el negocio como a nivel personal, ya que le permite una respuesta rápida y cercana. Utiliza Instagram principalmente para mostrar sus productos y atraer nuevos clientes, mientras que el correo lo reserva solo para trámites formales.
+Sus objetivos principales para este año se centran en aumentar las ventas en un 40%, mejorar significativamente su presencia en Google y redes sociales, implementar delivery propio y prepararse para abrir una tercera sucursal en el futuro. Sin embargo, en el día a día enfrenta varias frustraciones, entre las que destacan no enterarse a tiempo de las reseñas negativas, la alta rotación de personal y el constante aumento de costos.
+
+Actualmente, el seguimiento de las opiniones de sus clientes lo realiza de manera manual, revisando Google Maps cada dos o tres días y revisando notificaciones de Facebook de forma irregular. Recordó que la última vez que recibió un comentario muy negativo sobre un café que salió frío y una atención lenta, se enteró dos días después gracias a un amigo que le envió una captura. Respondió pidiendo disculpas y ofreciendo una compensación, pero reconoció que el retraso afectó su capacidad de reacción.
+
+Al reflexionar sobre el impacto del entorno digital, Karim mencionó que si tuviera una página web o pasarela de pagos y esta dejara de funcionar, se enteraría probablemente a través de mensajes de clientes por WhatsApp, lo que generaría pérdida de ventas inmediata y mucho estrés, especialmente en fines de semana. Por esta razón, consideró que una herramienta como BrandRadar le quitaría un gran peso de encima si le permitiera recibir alertas instantáneas ante reseñas negativas o comentarios fuertes en Google Maps, Instagram o Facebook, mostrar toda la información de sus dos locales en un solo lugar, analizar el sentimiento general y sugerir formas de responder rápidamente.
 
 ---
 <div align="center">
