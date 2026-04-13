@@ -107,8 +107,6 @@ Para este segmento, las entrevistas estuvieron orientadas a comprender cómo las
 
 <br>
 
----
-
 ### Segmento 2: Especialistas de marketing o community managers
 
 En este segmento, las entrevistas se enfocaron en comprender el flujo de trabajo, herramientas utilizadas, carga operativa y necesidades de automatización en la gestión de reputación digital.
@@ -144,11 +142,17 @@ En este segmento, las entrevistas se enfocaron en comprender el flujo de trabajo
 **Preguntas complementarias:**
 
 Edad, género (opcional), lugar de residencia
+
 Formación académica o experiencia laboral
+
 Tipo de empresa o agencia donde trabajas
+
 ¿Cuántas marcas gestionas actualmente?
+
 ¿Qué dispositivos utilizas con mayor frecuencia?
+
 ¿Qué plataformas digitales usas diariamente?
+
 ¿Qué herramientas o marcas influyen en tu trabajo?
 
 <br>
