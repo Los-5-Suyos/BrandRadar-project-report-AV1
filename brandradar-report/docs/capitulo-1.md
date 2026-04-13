@@ -483,6 +483,7 @@ Este segmento está compuesto por profesionales responsables de gestionar la pre
 **Características demográficas:**
 
 <br>
+
 * **Edad:** Entre 20 y 45 años.
 * **Género:** Hombres y mujeres.
 * **Ubicación:** Ecosistemas corporativos o en modalidad de trabajo remoto a nivel nacional y regional (LATAM).
