@@ -59,7 +59,6 @@ Para asegurar la viabilidad del modelo de negocio de BrandRadar, se implementar�
 Para validar las hipótesis y recolectar la información necesaria para construir los *User Personas*, se han diseñado dos cuestionarios adaptados a los segmentos objetivo de BrandRadar. Las entrevistas siguen una estructura de embudo, iniciando con datos demográficos y culminando en la exploración del problema.
 
 #### Segmento 1: Pequeñas y medianas empresas y marcas digitales (PyMEs)
-<br>
 
 Para este segmento, las entrevistas estuvieron orientadas a comprender cómo las empresas gestionan actualmente su reputación digital, qué dificultades enfrentan y qué nivel de conocimiento tienen sobre herramientas tecnológicas.
   
@@ -102,9 +101,9 @@ Para este segmento, las entrevistas estuvieron orientadas a comprender cómo las
 
 ¿Qué te gustaría mejorar en la gestión de tu marca?
 
+<br>
 
 #### Segmento 2: Especialistas de marketing o community managers
-<br>
 
 En este segmento, las entrevistas se enfocaron en comprender el flujo de trabajo, herramientas utilizadas, carga operativa y necesidades de automatización en la gestión de reputación digital.
 
