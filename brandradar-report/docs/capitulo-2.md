@@ -56,7 +56,11 @@ Para asegurar la viabilidad del modelo de negocio de BrandRadar, se implementar�
 
 ### 2.2.1. Diseño de entrevistas
 
-Para validar las hipótesis y recolectar la información necesaria para construir los *User Personas*, se han diseñado dos cuestionarios adaptados a los segmentos objetivo de BrandRadar. Las entrevistas siguen una estructura de embudo, iniciando con datos demográficos y culminando en la exploración del problema.
+En esta sección se presenta el diseño de las entrevistas realizadas con el objetivo de comprender en profundidad las necesidades, comportamientos y problemáticas de los usuarios identificados. Se empleó un enfoque de entrevistas semiestructuradas, permitiendo obtener información cualitativa relevante y flexible según las respuestas de los participantes.
+
+
+El diseño de las entrevistas se basó en buenas prácticas de investigación en experiencia de usuario (UX), priorizando el uso de preguntas abiertas, evitando sesgos y enfocándose en experiencias reales de los usuarios. Asimismo, se buscó recolectar tanto información principal (relacionada con el problema y uso de herramientas) como información complementaria (datos demográficos y contexto personal), necesaria para la construcción de arquetipos o user personas.
+<br>
 
 #### Segmento 1: Pequeñas y medianas empresas y marcas digitales (PyMEs)
 
