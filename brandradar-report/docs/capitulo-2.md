@@ -334,7 +334,7 @@ Al reflexionar sobre el impacto del entorno digital en sus ventas, Jenifer seña
 
 > *(Análisis por segmento objetivo con sustento estadístico — porcentajes)*
 
-**Segmento objetivo 1: `[Nombre del segmento]`**
+**Segmento objetivo 1: `Pequeñas y medianas empresas y marcas digitales (PyMEs)`**
 
 A partir de las primeras entrevistas realizadas a emprendedores y gerentes de negocios locales, se han identificado patrones de comportamiento claros que servirán como base fundamental para la construcción de nuestro *User Persona*. En términos demográficos y de perfil empresarial, ambos entrevistados operan sus negocios en zonas comerciales urbanas, específicamente en el distrito de Surco. Asimismo, existe una coincidencia total en que mantener una buena imagen, generar confianza en el cliente y cumplir con su propuesta de valor son los pilares más críticos para la supervivencia y el éxito de sus respectivas empresas.
 
