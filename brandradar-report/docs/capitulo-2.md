@@ -293,18 +293,34 @@ Al reflexionar sobre el impacto del entorno digital, Karim mencionó que si tuvi
 
 | Campo | Detalle |
 |:------|:--------|
-| **Nombres y apellidos** | `[Nombre del entrevistado]` |
-| **Edad** | `[Edad]` |
-| **Ubicación** | `[Distrito]` |
-| **Fecha de entrevista** | `YYYY-MM-DD` |
-| **Duración** | `[HH:MM]` |
-| **Enlace al video** | [Ver entrevista en Microsoft Stream](`URL`) — Inicia en `[MM:SS]` |
+| **Nombres y apellidos** | `Esteban Andrés Medina Hernández` |
+| **Edad** | `27` |
+| **Ubicación** | `Breña, Lima` |
+| **Fecha de entrevista** | `2026-04-13` |
+| **Duración** | `16:11` |
+| **Enlace al video** | [Ver entrevista en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012001_upc_edu_pe/IQClneebUgtXSJe2UFApCmAAASuqxOfQdrm9aQzKm2Gkgpo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OjJ9gn) — Inicia en `[00:00]` |
 
 **Resumen:**
 
 </div>
 
-*(Redactar resumen de la entrevista)*
+La entrevista fue realiza a Esteban Andrés Medina Hernández (27 años, vive en Breña) con el fin de recabar información para un proyecto enfocado en el monitoreo y análisis en tiempo real de la reputación digital de marcas. Esteban se presenta como editor audiovisual y marketer: trabaja con varios clientes, pero su cliente principal es una clínica dental donde se desempeña como jefe de marketing; anteriormente tuvo una agencia, pero actualmente trabaja como freelance. Relata que su interés por la edición comenzó muy joven (a los 12–13 años), primero editando para sí mismo y luego, al estudiar Ciencias de la Comunicación, asumiendo trabajos de otros estudiantes; durante la pandemia dio un salto profesional al colaborar con marcas relevantes (menciona campañas o trabajos para JBL, GG Poker y BCP), además de su trabajo sostenido con la clínica Dental Protect.
+
+Sobre su desempeño profesional, comenta que bajo presión se considera resiliente y con “mentalidad de crecimiento”: interpreta las dificultades como aprendizaje y experiencia para optimizar procesos y resolver problemas con más eficacia. Señala como fortaleza principal su nivel de dominio en edición y postproducción (preproducción, producción y postproducción), al punto de poder entender con rapidez lo que el cliente quiere con solo conversar y traducirlo en piezas que los dejan satisfechos.
+
+En cuanto a mantenerse actualizado, no sigue muchas marcas como referencia directa, sino más bien creadores/personajes en TikTok vinculados a equipos audiovisuales (porque también graba). Como marcas que le interesan o sigue menciona Sony (cámaras), Rode (audio) y Apple (computación), destacando que en su experiencia la Mac está muy bien optimizada para edición y postproducción.
+
+Al describir su flujo de trabajo para monitorear menciones o desempeño de marca, indica que en entornos de agencia el seguimiento suele ser un trabajo colaborativo y que típicamente recae en la community manager o en quien gestiona redes. Su dinámica habitual incluye reuniones semanales (de 1 a 2 horas) para revisar estadísticas: rendimiento de videos, volumen y tono de comentarios, resultados de ads/publicidad, mensajes recibidos y —sobre todo— métricas de conversión. En su enfoque, lo crítico es medir cuántas personas pasan a ser clientes potenciales (cuando se trata de servicios) o cuántas compran (cuando se trata de productos), y luego continuar con acciones de fidelización. Para coordinar y operar el día a día, menciona que WhatsApp es central por su facilidad para mantenerse conectado con clientes y equipos (y valora funciones como destacados en WhatsApp Business). Para reuniones usa Google Meet o Zoom; Discord lo ve como opcional porque, según su experiencia, a partir de cierta edad (27+) muchas personas no lo usan. Para organización y gestión de tareas ha usado sobre todo Trello, y también Notion (que le parece interesante por sus funciones).
+
+Respecto al tiempo invertido en reportes, estima que el trabajo manual de consolidar capturas de pantalla, comentarios y métricas para presentar reportes “coherentes” puede tomar aproximadamente entre 10 y 15 horas al mes, y suele ser responsabilidad de una persona específica dentro del equipo.
+
+Sobre detección de crisis o incremento de negatividad, comenta que muchas veces lo identifican por señales de rendimiento (por ejemplo, cuando un video “no despega” y la audiencia no conecta) y por el análisis conjunto con la persona de marketing/redes. Distingue entre resultados orgánicos (feed) y resultados impulsados por pauta (ads): menciona que a veces contenidos “flojos” pueden despegar con ads, mientras que sin publicidad pueden no funcionar, por lo que el éxito se termina evaluando por conversiones (interesados que escriben, consultas, etc.) y por indicadores como vistas, interacciones y compartidos.
+
+Como ejemplo de una situación negativa no detectada a tiempo, relata un caso serio en la clínica dental: una reseña negativa en Google por demoras en la atención. Explica que esto les afecta fuertemente porque gran parte de la captación viene de Google Maps (la gente busca “clínica dental” y decide mirando estrellas y reseñas). Frente al comentario, el manejo consistió en conversar con la persona, disculparse y explicar los factores que llevaron al problema, intentando que retire la reseña; subraya que en Google no pueden borrar la opinión si el usuario no la elimina. Según su percepción, el episodio impactó el desempeño general (menciona que se sintió tanto en redes como TikTok y Facebook, con menos alcance y algunos comentarios negativos), atribuyéndolo a un factor externo que terminó afectando a la marca y a la conversación en redes.
+
+Finalmente, al hablar de qué parte del proceso le consume más tiempo, destaca que lo más difícil en marketing de contenidos es construir el guion inicial y, especialmente, el “hook” (el gancho): puede tardar desde minutos hasta horas, implica iteraciones y correcciones, y a veces el gancho aparece al final y debe reubicarse al inicio. También resalta la necesidad de adaptar la estructura de un mismo video a cada plataforma (por ejemplo, algo puede funcionar en TikTok pero no en Instagram), lo que obliga a “voltear” o rearmar el contenido. Complementa que los primeros 3 segundos son determinantes para retener al espectador.
+
+En ese contexto, considera que una herramienta que envíe alertas automáticas en tiempo real sobre percepción/reputación de marca en redes e internet sería muy valiosa: ayudaría a entender mejor qué busca la audiencia, conectar con ella y optimizar contenido, reduciendo horas invertidas en prueba y error para encontrar el hook adecuado. Llega a afirmar que, si una aplicación indicara de forma clara qué tipo de hook o enfoque usar para atraer audiencia y convertirla en clientes, sería “10 de 10” y la compraría de inmediato.
 
 <br>
 
