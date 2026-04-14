@@ -25,7 +25,7 @@
 | US03 | `[Título de User Story]` | Como `Community Manager`, quiero `ver un feed en vivo de las publicaciones recolectadas`, para `tener una visión inmediata de la conversación actual`. | **Scenario 1:** `[Nombre]` <br> **When** `[acción]` <br> **Then** `[resultado esperado]` | EP01 |
 | US04 | `[Título de User Story]` | Como `Desarrollador`, quiero `que el sistema use Webhooks para las notificaciones`, para `asegurar que la latencia entre la publicación y la alerta sea mínima`. | **Scenario 1:** `[Nombre]` <br> **When** `[acción]` <br> **Then** `[resultado esperado]` | EP01 |
 
-
+|:---------------:|:------:|:------------|:------------------------|:-------------------------:|
 | **EP02** | `AI Sentiment Analysis` | *(Descripción del Epic)* | — | — |
 | US05 | `[Título de User Story]` | Como `Gerente de Marca`, quiero `que el sistema identifique el sarcasmo en los comentarios`, para `que el análisis de sentimiento sea preciso y no arroje falsos positivos`. | **Scenario 1:** `[Nombre]` <br> **Given** `[contexto]` <br> **When** `[acción]` <br> **Then** `[resultado esperado]` | EP02 |
 | US06 | `[User Story Landing Page]` | Como `Analista de Datos`, quiero `poder corregir manualmente la polaridad de un comentario (cambiar de neutro a negativo)`, para `entrenar al modelo de IA con contextos específicos de mi industria`. | **Scenario 1:** `[Nombre]` <br> **Given** `[contexto]` <br> **When** `[acción]` <br> **Then** `[resultado esperado]` | EP02 |
