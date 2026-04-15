@@ -192,7 +192,7 @@ Finalmente, considera que una aplicación podría ayudarle a fortalecer su image
 #### Entrevista 2
 *Imagen de la entrevista*
 
-<img src="../assets/interviews/ss_entrevista_2.png" alt="Screenshot Entrevista 2" width="1000"/>
+<img src="../assets/interviews/ss_entrevista_2.png" alt="Screenshot Entrevista 2" width="900"/>
 
 <br>
 
@@ -225,7 +225,7 @@ Al reflexionar sobre el impacto del entorno digital en sus ventas, Jenifer seña
 
 *Imagen de la entrevista*
 
-<img src="../assets/interviews/ss_entrevista_3.jpeg" alt="Screenshot Entrevista 3" width="1000"/>
+<img src="../assets/interviews/ss_entrevista_3.jpeg" alt="Screenshot Entrevista 3" width="700"/>
 
 <br>
 
@@ -266,7 +266,7 @@ Al reflexionar sobre el impacto del entorno digital, Karim mencionó que si tuvi
 
 *Imagen de la entrevista*
 
-<img src="../assets/interviews/ss_entrevista_4.png" alt="Screenshot Entrevista 4" width="1000"/>
+<img src="../assets/interviews/ss_entrevista_4.png" alt="Screenshot Entrevista 4" width="8000"/>
 
 <br>
 
@@ -295,7 +295,7 @@ Al reflexionar sobre el impacto del entorno digital, Karim mencionó que si tuvi
 
 *Imagen de la entrevista*
 
-<img src="../assets/interviews/ss_entrevista_5.png" alt="Screenshot Entrevista 5" width="1000"/>
+<img src="../assets/interviews/ss_entrevista_5.png" alt="Screenshot Entrevista 5" width="900"/>
 
 <br>
 
