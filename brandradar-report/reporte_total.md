@@ -1032,9 +1032,16 @@ Al reflexionar sobre el impacto del entorno digital, Karim mencionó que si tuvi
 
 </div>
 
-*Romina Apaza, especialista en marketing de 22 años de Arequipa, trabaja como freelance gestionando el monitoreo digital de dos marcas. Su labor se centra en actualizar redes sociales, analizar la interacción del público y mantener coherente la comunicación con la identidad de marca, principalmente en plataformas como Instagram y TikTok.
-Su proceso diario consiste en revisar comentarios, mensajes y menciones, evaluar la percepción del público y observar tendencias, dedicando entre una y dos horas al día y más tiempo semanalmente para reportes. Identifica el monitoreo manual como la parte más demandante de su trabajo, ya que requiere constante observación.
-Destaca por su capacidad de análisis, observación y adaptación bajo presión. Considera que herramientas automatizadas con alertas en tiempo real mejorarían su eficiencia, permitiéndole reaccionar más rápido ante crisis y enfocarse más en la estrategia que en el seguimiento constante.*
+Romina Apaza se desempeña como freelance en monitoreo de marcas en entornos digitales, trabajando actualmente con dos marcas. Su labor principal consiste en gestionar la presencia en redes sociales, analizar la interacción del público y asegurar que la comunicación sea coherente con la identidad de cada marca.
+
+Está especialmente interesada en la comunicación política y la gestión digital de comunidades municipales, lo que la ha llevado a desarrollar habilidades en análisis de audiencias y manejo de redes sociales. Trabaja principalmente con plataformas como Instagram y TikTok, enfocándose en comprender el comportamiento del público y en construir comunidades sólidas alrededor de las marcas.
+
+En su trabajo diario, revisa redes sociales, analiza comentarios, mensajes y menciones, evalúa la interacción con el público y observa tendencias tanto propias como de la competencia. Este proceso le toma entre una y dos horas diarias, mientras que semanalmente dedica más tiempo a la elaboración de reportes.
+
+Romina identifica el monitoreo como la parte más demandante de su trabajo, ya que es un proceso manual que requiere observación constante. Ha enfrentado situaciones como la propagación de comentarios negativos que no se detectaron a tiempo, lo que evidencia la necesidad de respuestas rápidas ante posibles crisis.
+
+Entre sus fortalezas destacan su capacidad de análisis, observación y adaptación bajo presión, priorizando tareas para resolver situaciones complejas. Considera que el uso de herramientas automatizadas con alertas en tiempo real mejoraría significativamente su eficiencia, permitiéndole enfocarse más en el análisis estratégico que en el monitoreo operativo.
+
 
 <br>
 
