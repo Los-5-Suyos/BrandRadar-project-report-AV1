@@ -13,7 +13,7 @@
 
 ## Presentado por ´Los 5 Suyos´
 
-<img src="assets/images/brandradar.png" alt="BrandRadar Logo" width="320"/>
+<img src="brandradar-report/assets/images/brandradar.png" alt="BrandRadar Logo" width="320"/>
 
 ## Startup: BrandRadar
 
