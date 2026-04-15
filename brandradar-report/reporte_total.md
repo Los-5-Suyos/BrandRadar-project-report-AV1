@@ -271,7 +271,7 @@ A través del uso de técnicas de análisis de datos y procesamiento de lenguaje
 
 **BrandRadar**
 
-  <img src="../assets/images/brandradar.png" alt="BrandRadar Logo" width="200"/>
+  <img src="brandradar-report/assets/images/brandradar.png" alt="BrandRadar Logo" width="200"/>
 
 <br>
 
