@@ -238,7 +238,7 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 | Criterio específico | Acciones realizadas | Conclusiones |
 |:---|:---|:---|
 | **3.c1. Comunica oralmente con efectividad a diferentes rangos de audiencia.** | **Salinas, Brianna** <br> AV1: (acción específica) <br><br> **Jáuregui, Jean Franco** <br> AV1: (acción específica) <br><br> **Cruzalegui, Joaquin** <br> AV1: (acción específica) <br><br> **Garcia Paredes, Victor** <br> AV1: (acción específica) <br><br> **Acuña de la Cruz, Luis** <br> AV1: (acción específica) | (Completar de forma grupal en cada entrega) |
-| **3.c1. Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Salinas, Brianna** <br> AV1: (acción específica) <br><br> **Jáuregui, Jean Franco** <br> AV1: (acción específica) <br><br> **Cruzalegui, Joaquin** <br> AV1: (acción específica) <br><br> **Garcia Paredes, Victor** <br> AV1: (acción específica) <br><br> **Acuña de la Cruz, Luis** <br> AV1: (acción específica) | (Completar de forma grupal en cada entrega) |
+| **3.c2. Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Salinas, Brianna** <br> AV1: (acción específica) <br><br> **Jáuregui, Jean Franco** <br> AV1: (acción específica) <br><br> **Cruzalegui, Joaquin** <br> AV1: (acción específica) <br><br> **Garcia Paredes, Victor** <br> AV1: (acción específica) <br><br> **Acuña de la Cruz, Luis** <br> AV1: (acción específica) | (Completar de forma grupal en cada entrega) |
 
 ---
 
