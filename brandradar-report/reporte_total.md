@@ -204,7 +204,7 @@ Gráfico de red (network graph) de ramas en el repositorio de GitHub.
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagrams](#481-database-diagrams)
       
-  #### [Capítulo V: Product Implementation, Validation & Deployment](./brandradar-report/docs/capitulo-5.md)
+  #### [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment-1)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
