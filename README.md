@@ -1213,9 +1213,8 @@ El Empathy Mapping fue elaborado a partir del análisis de las entrevistas reali
 
 ---
 
-**Empathy Map — `[Persona 2]`**
+**Empathy Map — `Agencia(Account Manager)`**
 
-*(Captura elaborada en UXPressia)*
 
 ![Empathy Map Persona 2](brandradar-report/assets/empathy-maps/empathy-map-persona2.png)
 
