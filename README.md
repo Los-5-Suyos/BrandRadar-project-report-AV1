@@ -1592,7 +1592,7 @@ Se desarrollaron versiones para:
 
 ### 4.3.2. Landing Page Mock-up
 
-Los mock-ups representan la versión visual final del Landing Page, incorporando colores, tipografía, iconografía y estilos definidos en el Design System.
+>*Los mock-ups representan la versión visual final del Landing Page, incorporando colores, tipografía, iconografía y estilos definidos en el Design System.*
 
 <div align="center">
 
@@ -1600,7 +1600,7 @@ Los mock-ups representan la versión visual final del Landing Page, incorporando
 
 *Elaboración propia en Figma*
 
-![Landing Page Mockup Desktop](brandradar-report/assets/images/Landingpage-mockup.png)
+![Landing Page Mockup Desktop](brandradar-report/assets/images/landingmockup-desktop.png)
 
 <br>
 
@@ -1608,7 +1608,7 @@ Los mock-ups representan la versión visual final del Landing Page, incorporando
 
 *Elaboración propia en Figma*
 
-![Landing Page Mockup Mobile](brandradar-report/assets/landing-page/mockup-mobile.png)
+![Landing Page Mockup Mobile](brandradar-report/assets/images/landingmockup-mobile.png)
 
 </div>
 
