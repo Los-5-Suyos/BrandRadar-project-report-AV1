@@ -1600,7 +1600,7 @@ Los mock-ups representan la versión visual final del Landing Page, incorporando
 
 *Elaboración propia en Figma*
 
-![Landing Page Mockup Desktop](brandradar-report/assets/landing-page/mockup-desktop.png)
+![Landing Page Mockup Desktop](brandradar-report/assets/images/Landingpage-mockup.png)
 
 **Mobile Web Browser**
 
