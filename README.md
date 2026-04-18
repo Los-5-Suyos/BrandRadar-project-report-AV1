@@ -1234,16 +1234,16 @@ El Empathy Mapping fue elaborado a partir del análisis de las entrevistas reali
 
 *(Capturas del Big Picture Event Storming elaborado en LucidChart / Miro)*
 
-![Big Picture Event Storming](brandradar-report/assets/event-storming/big-picture-event-storming/step1.png)
+![Big Picture Event Storming](brandradar-report/assets/event-storming/big-picture-event-storming-step1.png)
 
 
-![Big Picture Event Storming](brandradar-report/assets/event-storming/big-picture-event-storming/step2.png)
+![Big Picture Event Storming](brandradar-report/assets/event-storming/big-picture-event-storming-step2.png)
 
 
-![Big Picture Event Storming](brandradar-report/assets/event-storming/big-picture-event-storming/step3.png)
+![Big Picture Event Storming](brandradar-report/assets/event-storming/big-picture-event-storming-step3.png)
 
 
-![Big Picture Event Storming](brandradar-report/assets/event-storming/big-picture-event-storming/step4.png)
+![Big Picture Event Storming](brandradar-report/assets/event-storming/big-picture-event-storming-step4.png)
 
 *(Explicación de los eventos, actores y flujos identificados)*
 
