@@ -1804,7 +1804,7 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 ### 5.1.2. Source Code Management
 
-*(Medios y esquema de organización para el seguimiento de modificaciones)*
+*(Para todo el ciclo de vida de nuestro proyecto, utilizaremos el sistema de control de versiones Git, donde la evidencia será visualizada y registrada en la plataforma de GitHub de nuestra organización. Se podrá visualizar todos los cambios y modificaciones realizadas por cada miembro del equipo. URL de GitHub: https://github.com/Los-5-Suyos/BrandRadar-report/graphs/contributors)*
 
 **Organización de GitHub:** [`[URL de la organización]`](`[URL]`)
 
